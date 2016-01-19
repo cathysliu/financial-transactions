@@ -1,0 +1,4 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	AAPL	Apple Inc.	Schiff, Adam (D-Calif)	Sold	$15,001 to $50,000	2014-08-18	2014-08-25	2014-08-26	2014-09-01	2014-09-24	2014-10-24	2015-02-23
+2	AAPL	Apple Inc.	Schiff, Adam (D-Calif)	Sold	$15,001 to $50,000	2014-06-16	2014-06-23	2014-06-24	2014-06-30	2014-07-23	2014-08-22	2014-12-22
+3	HPQ	Hewlett-Packard Company	Schiff, Adam (D-Calif)	Sold	$1,000 to $15,000	2012-10-09	2012-10-16	2012-10-17	2012-10-23	2012-11-15	2012-12-17	2013-04-15

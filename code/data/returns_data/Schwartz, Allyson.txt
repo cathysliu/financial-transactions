@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	D	Pa	Schwartz, Allyson	TEVA	Sold	8000	2013-11-26	-0.01129	0.00844	-0.03058	0.10802	0.23189

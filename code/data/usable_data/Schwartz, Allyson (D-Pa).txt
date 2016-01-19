@@ -1,0 +1,2 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	TEVA	Teva Pharmaceutical Industries Limited	Schwartz, Allyson (D-Pa)	Sold	$1,000 to $15,000	2013-11-26	2013-12-03	2013-12-04	2013-12-10	2014-01-02	2014-02-03	2014-06-02

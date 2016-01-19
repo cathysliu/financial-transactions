@@ -1,0 +1,15 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	NDLS	Noodles & Company	O'Rourke, Beto (D-Texas)	Sold	$1,000 to $15,000	2013-06-28	2013-07-05	2013-07-08	2013-07-12	2013-08-05	2013-09-03	2014-01-01
+2	SCAI	Surgical Care Affiliates, Inc.	O'Rourke, Beto (D-Texas)	Sold	$1,000 to $15,000	2013-11-27	2013-12-04	2013-12-05	2013-12-11	2014-01-03	2014-02-03	2014-06-02
+3	SCAI	Surgical Care Affiliates, Inc.	O'Rourke, Beto (D-Texas)	Purchased	$1,000 to $15,000	2013-10-30	2013-11-06	2013-11-07	2013-11-13	2013-12-06	2014-01-06	2014-05-05
+4	GLW	Corning Incorporated	O'Rourke, Beto (D-Texas)	Sold	$1,000 to $15,000	2013-03-04	2013-03-11	2013-03-12	2013-03-18	2013-04-10	2013-05-10	2013-09-09
+5	P	Pandora Media, Inc.	O'Rourke, Beto (D-Texas)	Purchased	$1,000 to $15,000	2013-09-19	2013-09-26	2013-09-27	2013-10-03	2013-10-28	2013-11-25	2014-03-25
+6	P	Pandora Media, Inc.	O'Rourke, Beto (D-Texas)	Sold	$1,000 to $15,000	2013-09-19	2013-09-26	2013-09-27	2013-10-03	2013-10-28	2013-11-25	2014-03-25
+7	PAA	Plains All American Pipeline, L.P.	O'Rourke, Beto (D-Texas)	Sold	$1,000 to $15,000	2013-03-28	2013-04-04	2013-04-05	2013-04-11	2013-05-06	2013-06-03	2013-10-01
+8	PANW	Palo Alto Networks, Inc.	O'Rourke, Beto (D-Texas)	Sold	$1,000 to $15,000	2013-05-16	2013-05-23	2013-05-24	2013-05-30	2013-06-24	2013-07-22	2013-11-19
+9	PSXP	Phillips 66 Partners LP	O'Rourke, Beto (D-Texas)	Sold	$1,000 to $15,000	2013-07-24	2013-07-31	2013-08-01	2013-08-07	2013-08-30	2013-09-30	2014-01-27
+10	PSXP	Phillips 66 Partners LP	O'Rourke, Beto (D-Texas)	Purchased	$1,000 to $15,000	2013-07-23	2013-07-30	2013-07-31	2013-08-06	2013-08-29	2013-09-30	2014-01-27
+11	TWTR	Twitter, Inc.	O'Rourke, Beto (D-Texas)	Sold	$1,000 to $15,000	2013-11-07	2013-11-14	2013-11-15	2013-11-21	2013-12-16	2014-01-13	2014-05-13
+12	TWTR	Twitter, Inc.	O'Rourke, Beto (D-Texas)	Sold	$1,000 to $15,000	2013-11-27	2013-12-04	2013-12-05	2013-12-11	2014-01-03	2014-02-03	2014-06-02
+13	TWTR	Twitter, Inc.	O'Rourke, Beto (D-Texas)	Purchased	$1,000 to $15,000	2013-11-07	2013-11-14	2013-11-15	2013-11-21	2013-12-16	2014-01-13	2014-05-13
+14	WES	Western Gas Partners, LP	O'Rourke, Beto (D-Texas)	Purchased	$1,000 to $15,000	2013-05-14	2013-05-21	2013-05-22	2013-05-28	2013-06-20	2013-07-22	2013-11-18

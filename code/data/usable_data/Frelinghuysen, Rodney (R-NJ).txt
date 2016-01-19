@@ -1,0 +1,29 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	AAPL	Apple Inc.	Frelinghuysen, Rodney (R-NJ)	Purchased	$15,001 to $50,000	2013-02-12	2013-02-19	2013-02-20	2013-02-26	2013-03-21	2013-04-22	2013-08-19
+2	AAPL	Apple Inc.	Frelinghuysen, Rodney (R-NJ)	Sold	$15,001 to $50,000	2014-09-09	2014-09-16	2014-09-17	2014-09-23	2014-10-16	2014-11-17	2015-03-16
+3	AAPL	Apple Inc.	Frelinghuysen, Rodney (R-NJ)	Purchased	$15,001 to $50,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+4	AAPL	Apple Inc.	Frelinghuysen, Rodney (R-NJ)	Purchased	$50,001 to $100,000	2013-01-09	2013-01-16	2013-01-17	2013-01-23	2013-02-15	2013-03-18	2013-07-15
+5	CSCO	Cisco Systems, Inc.	Frelinghuysen, Rodney (R-NJ)	Sold	$50,001 to $100,000	2013-01-09	2013-01-16	2013-01-17	2013-01-23	2013-02-15	2013-03-18	2013-07-15
+6	MSFT	Microsoft Corporation	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+7	ABB	ABB Ltd	Frelinghuysen, Rodney (R-NJ)	Sold	$100,001 to $250,000	2012-10-23	2012-10-30	2012-10-31	2012-11-06	2012-11-29	2012-12-31	2013-04-29
+8	APA	Apache Corporation	Frelinghuysen, Rodney (R-NJ)	Sold	$15,001 to $50,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+9	BAM	Brookfield Asset Management Inc	Frelinghuysen, Rodney (R-NJ)	Sold	$100,001 to $250,000	2014-08-13	2014-08-20	2014-08-21	2014-08-27	2014-09-19	2014-10-20	2015-02-16
+10	DE	Deere & Company	Frelinghuysen, Rodney (R-NJ)	Purchased	$100,001 to $250,000	2013-07-31	2013-08-07	2013-08-08	2013-08-14	2013-09-06	2013-10-07	2014-02-03
+11	DE	Deere & Company	Frelinghuysen, Rodney (R-NJ)	Sold	$100,001 to $250,000	2014-06-27	2014-07-04	2014-07-07	2014-07-11	2014-08-04	2014-09-02	2014-12-31
+12	DNR	Denbury Resources Inc.	Frelinghuysen, Rodney (R-NJ)	Sold	$100,001 to $250,000	2014-10-02	2014-10-09	2014-10-10	2014-10-16	2014-11-10	2014-12-08	2015-04-07
+13	DOV	Dover Corporation	Frelinghuysen, Rodney (R-NJ)	Purchased	$1,000 to $15,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+14	EMR	Emerson Electric Company	Frelinghuysen, Rodney (R-NJ)	Sold	$15,001 to $50,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+15	EXC	Exelon Corporation	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+16	HD	Home Depot, Inc. (The)	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+17	JNJ	Johnson & Johnson	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+18	KMX	CarMax Inc	Frelinghuysen, Rodney (R-NJ)	Purchased	$100,001 to $250,000	2014-07-08	2014-07-15	2014-07-16	2014-07-22	2014-08-14	2014-09-15	2015-01-12
+19	KMX	CarMax Inc	Frelinghuysen, Rodney (R-NJ)	Purchased	$100,001 to $250,000	2014-10-02	2014-10-09	2014-10-10	2014-10-16	2014-11-10	2014-12-08	2015-04-07
+20	KO	Coca-Cola Company (The)	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2014-08-05	2014-08-12	2014-08-13	2014-08-19	2014-09-11	2014-10-13	2015-02-09
+21	KO	Coca-Cola Company (The)	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+22	MO	Altria Group	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+23	NEM	Newmont Mining Corporation	Frelinghuysen, Rodney (R-NJ)	Sold	$50,001 to $100,000	2012-12-07	2012-12-14	2012-12-17	2012-12-21	2013-01-14	2013-02-12	2013-06-12
+24	PH	Parker-Hannifin Corporation	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2014-08-05	2014-08-12	2014-08-13	2014-08-19	2014-09-11	2014-10-13	2015-02-09
+25	PM	Philip Morris International Inc	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2013-04-08	2013-04-15	2013-04-16	2013-04-22	2013-05-15	2013-06-14	2013-10-14
+26	STT	State Street Corporation	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2013-08-07	2013-08-14	2013-08-15	2013-08-21	2013-09-13	2013-10-14	2014-02-10
+27	STT	State Street Corporation	Frelinghuysen, Rodney (R-NJ)	Sold	$1,000 to $15,000	2014-08-05	2014-08-12	2014-08-13	2014-08-19	2014-09-11	2014-10-13	2015-02-09
+28	XPO	XPO Logistics, Inc.	Frelinghuysen, Rodney (R-NJ)	Purchased	$100,001 to $250,000	2014-01-30	2014-02-06	2014-02-07	2014-02-13	2014-03-10	2014-04-07	2014-08-05

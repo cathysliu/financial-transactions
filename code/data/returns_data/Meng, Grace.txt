@@ -1,0 +1,4 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2014	D	NY	Meng, Grace	AAPL	Sold	8000	2014-01-08	-0.00958	-0.12574	-0.12937	-0.13512	-0.29798
+2	2014	D	NY	Meng, Grace	GG	Sold	8000	2014-01-08	0.04034	-0.0131	0.09114	NA	-0.26829
+3	2014	D	NY	Meng, Grace	XLS	Purchased	8000	2014-01-08	0.06732	0.09847	0.05269	0.0444	-0.13795

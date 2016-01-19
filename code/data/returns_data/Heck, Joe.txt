@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	R	Nev	Heck, Joe	RPAI	Sold	32500	2013-10-08	0.00457	-0.00619	-0.04666	-0.13287	-0.04774

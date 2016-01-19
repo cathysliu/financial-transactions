@@ -1,0 +1,10 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	CZR	Caesars Entertainment Corporation	Polis, Jared (D-Colo)	Sold	$1,000 to $15,000	2014-02-20	2014-02-27	2014-02-28	2014-03-06	2014-03-31	2014-04-28	2014-08-26
+2	CZR	Caesars Entertainment Corporation	Polis, Jared (D-Colo)	Sold	$1,000 to $15,000	2014-01-15	2014-01-22	2014-01-23	2014-01-29	2014-02-21	2014-03-24	2014-07-21
+3	CZR	Caesars Entertainment Corporation	Polis, Jared (D-Colo)	Sold	$1,000 to $15,000	2013-04-01	2013-04-08	2013-04-09	2013-04-15	2013-05-08	2013-06-07	2013-10-07
+4	CZR	Caesars Entertainment Corporation	Polis, Jared (D-Colo)	Sold	$1,000 to $15,000	2013-11-01	2013-11-08	2013-11-11	2013-11-15	2013-12-09	2014-01-07	2014-05-07
+5	CZR	Caesars Entertainment Corporation	Polis, Jared (D-Colo)	Sold	$1,000 to $15,000	2013-10-08	2013-10-15	2013-10-16	2013-10-22	2013-11-14	2013-12-16	2014-04-14
+6	CZR	Caesars Entertainment Corporation	Polis, Jared (D-Colo)	Sold	$1,000 to $15,000	2012-09-19	2012-09-26	2012-09-27	2012-10-03	2012-10-26	2012-11-26	2013-03-25
+7	CZR	Caesars Entertainment Corporation	Polis, Jared (D-Colo)	Sold	$1,000 to $15,000	2013-03-05	2013-03-12	2013-03-13	2013-03-19	2013-04-11	2013-05-13	2013-09-09
+8	CZR	Caesars Entertainment Corporation	Polis, Jared (D-Colo)	Sold	$1,000 to $15,000	2013-01-07	2013-01-14	2013-01-15	2013-01-21	2013-02-13	2013-03-15	2013-07-15
+9	RALY	Rally Software Development Corp.	Polis, Jared (D-Colo)	Sold	$100,001 to $250,000	2013-07-30	2013-08-06	2013-08-07	2013-08-13	2013-09-05	2013-10-07	2014-02-03

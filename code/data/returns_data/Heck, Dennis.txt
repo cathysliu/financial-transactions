@@ -1,0 +1,5 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	D	Wash	Heck, Dennis	VOD	Sold	32500	2013-06-18	-0.01189	-0.01115	-0.05226	-0.06811	-0.21265
+2	2013	D	Wash	Heck, Dennis	VOD	Purchased	32500	2013-06-18	0.01169	0.01714	0.00665	0.02704	0.24391
+3	2013	D	Wash	Heck, Dennis	XRX	Sold	32500	2013-06-18	-0.00191	-0.01922	-0.09658	-0.11921	-0.04751
+4	2013	D	Wash	Heck, Dennis	ZMH	Sold	32500	2013-06-18	-0.02888	-0.0249	0.01212	-0.001	0.05808

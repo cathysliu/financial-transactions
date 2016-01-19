@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	R	Ind	Rokita, Todd	AAPL	Purchased	8000	2012-11-09	0.03025	0.02413	-0.08961	-0.18844	-0.41951

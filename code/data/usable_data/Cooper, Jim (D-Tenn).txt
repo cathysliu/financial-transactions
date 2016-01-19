@@ -1,0 +1,3 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	SEM	Select Medical Holdings Corporation	Cooper, Jim (D-Tenn)	Purchased	$1,000 to $15,000	2013-02-19	2013-02-26	2013-02-27	2013-03-05	2013-03-28	2013-04-29	2013-08-26
+2	SEM	Select Medical Holdings Corporation	Cooper, Jim (D-Tenn)	Sold	$1,000 to $15,000	2013-02-19	2013-02-26	2013-02-27	2013-03-05	2013-03-28	2013-04-29	2013-08-26

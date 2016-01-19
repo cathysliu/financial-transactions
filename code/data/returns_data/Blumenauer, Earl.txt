@@ -1,0 +1,11 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	-0.0104	-0.00213	-0.04415	NA	NA
+2	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	-0.00957	-0.00644	-0.00474	-0.00915	NA
+3	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	0.026	0.02954	0.06392	0.0514	-0.03251
+4	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	-0.02095	-0.00298	0.01351	0.03879	0.00664
+5	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	0.01094	0.00062	-6e-04	-0.02405	0.01967
+6	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	0.00282	-0.00362	-0.02759	-0.02586	-0.0871
+7	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	-0.02332	-0.04323	-0.03556	-0.03219	-0.13235
+8	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	-0.0151	0.00928	-0.00084	-0.06519	-0.12661
+9	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	0.01771	0.00817	-0.05963	-0.04092	-0.15023
+10	2012	D	Ore	Blumenauer, Earl	NWN	Purchased	8000	2012-11-15	-0.03266	-8e-04	0.00224	NA	-0.13483

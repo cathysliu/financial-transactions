@@ -1,0 +1,2 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	TSLA	Tesla Motors, Inc.	Lofgren, Zoe (D-Calif)	Purchased	$1,000 to $15,000	2013-10-20	2013-10-28	2013-10-28	2013-11-04	2013-11-26	2013-12-26	2014-04-25

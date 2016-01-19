@@ -1,0 +1,4 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	D	Ill	Schakowsky, Jan	SBUX	Sold	8000	2013-09-19	0.02721	0.02731	0.00546	0.01746	-0.10321
+2	2013	D	Ill	Schakowsky, Jan	DIS	Sold	8000	2013-09-19	0.00645	-0.00534	0.02455	0.01818	0.13809
+3	2013	D	Ill	Schakowsky, Jan	WAG	Sold	8000	2013-09-19	-0.01196	0.01999	0.0357	0.03229	0.11102

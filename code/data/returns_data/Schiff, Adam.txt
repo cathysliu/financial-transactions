@@ -1,0 +1,4 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	D	Calif	Schiff, Adam	AAPL	Sold	32500	2012-10-09	0.00304	NA	0.01915	NA	NA
+2	2012	D	Calif	Schiff, Adam	AAPL	Sold	32500	2012-10-09	-0.02997	-0.00697	0.03205	0.08015	NA
+3	2012	D	Calif	Schiff, Adam	HPQ	Sold	8000	2012-10-09	0.00983	0.00982	-0.02912	0.0013	0.37505

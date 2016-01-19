@@ -1,0 +1,4 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months
+1	2013	D	Calif	Speier, Jackie	MSFT	Sold	8000	2013-02-27	-0.00811	-0.02324	0.0084	0.14645
+2	2013	D	Calif	Speier, Jackie	TWC	Sold	8000	2013-02-27	-0.00502	0.0147	0.08501	0.02621
+3	2013	D	Calif	Speier, Jackie	TWX	Sold	8000	2013-02-27	0.04542	0.03534	0.06218	0.07056

@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	R	Ga	Woodall, Rob	SCCO	Sold	32500	2012-10-01	0.02331	0.02809	0.12729	0.20439	0.01208

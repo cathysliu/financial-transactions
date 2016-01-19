@@ -1,0 +1,4 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	MSFT	Microsoft Corporation	Speier, Jackie (D-Calif)	Sold	$1,000 to $15,000	2013-02-27	2013-03-06	2013-03-07	2013-03-13	2013-04-05	2013-05-06	2013-09-02
+2	TWC	Time Warner Cable Inc	Speier, Jackie (D-Calif)	Sold	$1,000 to $15,000	2013-02-27	2013-03-06	2013-03-07	2013-03-13	2013-04-05	2013-05-06	2013-09-02
+3	TWX	Time Warner Inc.	Speier, Jackie (D-Calif)	Sold	$1,000 to $15,000	2013-02-27	2013-03-06	2013-03-07	2013-03-13	2013-04-05	2013-05-06	2013-09-02

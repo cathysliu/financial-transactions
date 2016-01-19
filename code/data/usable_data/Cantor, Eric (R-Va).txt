@@ -1,0 +1,7 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	CCJ	Cameco Corporation	Cantor, Eric (R-Va)	Sold	$1,000 to $15,000	2013-02-11	2013-02-18	2013-02-19	2013-02-25	2013-03-20	2013-04-19	2013-08-19
+2	DIS	Walt Disney Company (The)	Cantor, Eric (R-Va)	Sold	$15,001 to $50,000	2014-01-16	2014-01-23	2014-01-24	2014-01-30	2014-02-24	2014-03-24	2014-07-22
+3	MSB	Mesabi Trust	Cantor, Eric (R-Va)	Purchased	$15,001 to $50,000	2014-01-16	2014-01-23	2014-01-24	2014-01-30	2014-02-24	2014-03-24	2014-07-22
+4	PCL	Plum Creek Timber Company, Inc.	Cantor, Eric (R-Va)	Sold	$15,001 to $50,000	2014-01-16	2014-01-23	2014-01-24	2014-01-30	2014-02-24	2014-03-24	2014-07-22
+5	STI	SunTrust Banks, Inc.	Cantor, Eric (R-Va)	Sold	$1,000 to $15,000	2014-01-16	2014-01-23	2014-01-24	2014-01-30	2014-02-24	2014-03-24	2014-07-22
+6	WY	Weyerhaeuser Company	Cantor, Eric (R-Va)	Sold	$1,000 to $15,000	2014-01-16	2014-01-23	2014-01-24	2014-01-30	2014-02-24	2014-03-24	2014-07-22

@@ -1,0 +1,4 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	D	Ill	Bustos, Cheri	CERN	Purchased	32500	2013-03-26	0.00602	-0.00152	0.01983	0.01456	0.03977
+2	2013	D	Ill	Bustos, Cheri	EOG	Purchased	32500	2013-03-26	-0.01163	-0.00545	-0.08918	-0.02234	0.22931
+3	2013	D	Ill	Bustos, Cheri	VZ	Purchased	32500	2013-03-26	0.00029	0.00762	0.0538	-0.05226	-0.12494

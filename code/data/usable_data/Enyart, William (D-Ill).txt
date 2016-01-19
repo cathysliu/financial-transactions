@@ -1,0 +1,2 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	GE	General Electric Company	Enyart, William (D-Ill)	Sold	$15,001 to $50,000	2013-02-15	2013-02-22	2013-02-25	2013-03-01	2013-03-25	2013-04-23	2013-08-21

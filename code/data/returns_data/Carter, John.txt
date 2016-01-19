@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	R	Texas	Carter, John	XOM	Sold	$500,001 to $1,000,000	2012-11-23	-0.01989	-0.01397	-0.04628	-0.0498	-0.132

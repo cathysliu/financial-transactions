@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Six.Months
+1	2012	R	Ark	Griffin, Tim	MUR	Sold	8000	2012-11-13	0.04455	0.02892	0.07406	-0.02166

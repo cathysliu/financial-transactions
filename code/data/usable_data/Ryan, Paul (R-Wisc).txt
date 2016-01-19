@@ -1,0 +1,11 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	AMZN	Amazon.com, Inc.	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05
+2	WFM	Whole Foods Market, Inc.	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05
+3	CAM	Cameron International Corporation	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05
+4	CMI	Cummins Inc.	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05
+5	CRM	Salesforce.com Inc	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05
+6	DIS	Walt Disney Company (The)	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05
+7	ECL	Ecolab Inc.	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05
+8	MMM	3M Company	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05
+9	PCP	Precision Castparts Corporation	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05
+10	PXD	Pioneer Natural Resources Company	Ryan, Paul (R-Wisc)	Sold	$1,000 to $15,000	2013-01-28	2013-02-04	2013-02-05	2013-02-11	2013-03-06	2013-04-05	2013-08-05

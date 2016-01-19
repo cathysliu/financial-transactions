@@ -1,0 +1,50 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	AMZN	Amazon.com, Inc.	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2013-03-19	2013-03-26	2013-03-27	2013-04-02	2013-04-25	2013-05-27	2013-09-23
+2	AMZN	Amazon.com, Inc.	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2013-05-03	2013-05-10	2013-05-13	2013-05-17	2013-06-10	2013-07-09	2013-11-06
+3	EBAY	eBay Inc.	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2013-04-25	2013-05-02	2013-05-03	2013-05-09	2013-06-03	2013-07-01	2013-10-29
+4	EBAY	eBay Inc.	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2013-11-25	2013-12-02	2013-12-03	2013-12-09	2014-01-01	2014-01-31	2014-06-02
+5	EBAY	eBay Inc.	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2014-05-05	2014-05-12	2014-05-13	2014-05-19	2014-06-11	2014-07-11	2014-11-10
+6	EBAY	eBay Inc.	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2013-11-21	2013-11-28	2013-11-29	2013-12-05	2013-12-30	2014-01-27	2014-05-27
+7	ESRX	Express Scripts Holding Company	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2014-07-17	2014-07-24	2014-07-25	2014-07-31	2014-08-25	2014-09-22	2015-01-20
+8	ESRX	Express Scripts Holding Company	Lowenthal, Alan (D-Calif)	Purchased	$15,001 to $50,000	2013-01-17	2013-01-24	2013-01-25	2013-01-31	2013-02-25	2013-03-25	2013-07-23
+9	ESRX	Express Scripts Holding Company	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2014-07-18	2014-07-25	2014-07-28	2014-08-01	2014-08-25	2014-09-23	2015-01-21
+10	ESRX	Express Scripts Holding Company	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2013-05-14	2013-05-21	2013-05-22	2013-05-28	2013-06-20	2013-07-22	2013-11-18
+11	ESRX	Express Scripts Holding Company	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2013-03-18	2013-03-25	2013-03-26	2013-04-01	2013-04-24	2013-05-24	2013-09-23
+12	GOOG	Google Inc.	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2013-01-17	2013-01-24	2013-01-25	2013-01-31	2013-02-25	2013-03-25	2013-07-23
+13	INTU	Intuit Inc.	Lowenthal, Alan (D-Calif)	Purchased	$15,001 to $50,000	2013-09-26	2013-10-03	2013-10-04	2013-10-10	2013-11-04	2013-12-02	2014-04-01
+14	INTU	Intuit Inc.	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2014-10-03	2014-10-10	2014-10-13	2014-10-17	2014-11-10	2014-12-09	2015-04-08
+15	INTU	Intuit Inc.	Lowenthal, Alan (D-Calif)	Purchased	$15,001 to $50,000	2014-01-07	2014-01-14	2014-01-15	2014-01-21	2014-02-13	2014-03-17	2014-07-14
+16	INTU	Intuit Inc.	Lowenthal, Alan (D-Calif)	Purchased	$0 to $0	2014-06-25	2014-07-02	2014-07-03	2014-07-09	2014-08-01	2014-09-01	2014-12-29
+17	VRSK	Verisk Analytics, Inc.	Lowenthal, Alan (D-Calif)	Purchased	$15,001 to $50,000	2014-05-02	2014-05-09	2014-05-12	2014-05-16	2014-06-09	2014-07-08	2014-11-05
+18	AGU	Agrium Inc.	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2013-01-17	2013-01-24	2013-01-25	2013-01-31	2013-02-25	2013-03-25	2013-07-23
+19	AGU	Agrium Inc.	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2013-03-22	2013-03-29	2013-04-01	2013-04-05	2013-04-29	2013-05-28	2013-09-25
+20	AIG	American International Group, Inc.	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2013-12-16	2013-12-23	2013-12-24	2013-12-30	2014-01-22	2014-02-21	2014-06-23
+21	AIG	American International Group, Inc.	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2013-02-07	2013-02-14	2013-02-15	2013-02-21	2013-03-18	2013-04-15	2013-08-13
+22	AMT	American Tower Corporation (REIT)	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2013-01-30	2013-02-06	2013-02-07	2013-02-13	2013-03-08	2013-04-08	2013-08-05
+23	BA	Boeing Company (The)	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2014-07-30	2014-08-06	2014-08-07	2014-08-13	2014-09-05	2014-10-06	2015-02-02
+24	BA	Boeing Company (The)	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2013-11-21	2013-11-28	2013-11-29	2013-12-05	2013-12-30	2014-01-27	2014-05-27
+25	BA	Boeing Company (The)	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2014-03-04	2014-03-11	2014-03-12	2014-03-18	2014-04-10	2014-05-12	2014-09-08
+26	BAC	Bank of America Corporation	Lowenthal, Alan (D-Calif)	Purchased	$15,001 to $50,000	2014-10-07	2014-10-14	2014-10-15	2014-10-21	2014-11-13	2014-12-15	2015-04-13
+27	CCI	Crown Castle International Corporation	Lowenthal, Alan (D-Calif)	Purchased	$15,001 to $50,000	2014-04-15	2014-04-22	2014-04-23	2014-04-29	2014-05-22	2014-06-23	2014-10-20
+28	CIT	CIT Group Inc (DEL)	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2014-04-22	2014-04-29	2014-04-30	2014-05-06	2014-05-29	2014-06-30	2014-10-27
+29	COF	Capital One Financial Corporation	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2013-03-01	2013-03-08	2013-03-11	2013-03-15	2013-04-08	2013-05-07	2013-09-04
+30	CPN	Calpine Corporation	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2013-02-12	2013-02-19	2013-02-20	2013-02-26	2013-03-21	2013-04-22	2013-08-19
+31	DLPH	Delphi Automotive plc	Lowenthal, Alan (D-Calif)	Purchased	$15,001 to $50,000	2013-04-24	2013-05-01	2013-05-02	2013-05-08	2013-05-31	2013-07-01	2013-10-28
+32	GEL	Genesis Energy, L.P.	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2014-04-07	2014-04-14	2014-04-15	2014-04-21	2014-05-14	2014-06-13	2014-10-13
+33	IHS	IHS Inc.	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2014-01-15	2014-01-22	2014-01-23	2014-01-29	2014-02-21	2014-03-24	2014-07-21
+34	JNJ	Johnson & Johnson	Lowenthal, Alan (D-Calif)	Purchased	$15,001 to $50,000	2013-04-11	2013-04-18	2013-04-19	2013-04-25	2013-05-20	2013-06-17	2013-10-15
+35	KMP	Kinder Morgan Energy Partners, L.P.	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2014-02-14	2014-02-21	2014-02-24	2014-02-28	2014-03-24	2014-04-22	2014-08-20
+36	KSU	Kansas City Southern	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2013-05-20	2013-05-27	2013-05-28	2013-06-03	2013-06-26	2013-07-26	2013-11-25
+37	KSU	Kansas City Southern	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2014-10-15	2014-10-22	2014-10-23	2014-10-29	2014-11-21	2014-12-22	2015-04-20
+38	KSU	Kansas City Southern	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2014-02-18	2014-02-25	2014-02-26	2014-03-04	2014-03-27	2014-04-28	2014-08-25
+39	KSU	Kansas City Southern	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2012-06-06	2012-06-13	2012-06-14	2012-06-20	2012-07-13	2012-08-13	2012-12-10
+40	MSI	Motorola Solutions, Inc.	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2013-07-26	2013-08-02	2013-08-05	2013-08-09	2013-09-02	2013-10-01	2014-01-29
+41	NMFC	New Mountain Finance Corporation	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2014-05-16	2014-05-23	2014-05-26	2014-05-30	2014-06-23	2014-07-22	2014-11-19
+42	PLL	Pall Corporation	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2013-05-09	2013-05-16	2013-05-17	2013-05-23	2013-06-17	2013-07-15	2013-11-12
+43	RGP	Regency Energy Partners LP	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2014-04-15	2014-04-22	2014-04-23	2014-04-29	2014-05-22	2014-06-23	2014-10-20
+44	SU	Suncor Energy  Inc.	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2013-02-21	2013-02-28	2013-03-01	2013-03-07	2013-04-01	2013-04-29	2013-08-27
+45	SU	Suncor Energy  Inc.	Lowenthal, Alan (D-Calif)	Sold	$1,000 to $15,000	2013-02-14	2013-02-21	2013-02-22	2013-02-28	2013-03-25	2013-04-22	2013-08-20
+46	UPS	United Parcel Service, Inc.	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2013-10-03	2013-10-10	2013-10-11	2013-10-17	2013-11-11	2013-12-09	2014-04-08
+47	URI	United Rentals, Inc.	Lowenthal, Alan (D-Calif)	Purchased	$1,000 to $15,000	2014-04-09	2014-04-16	2014-04-17	2014-04-23	2014-05-16	2014-06-16	2014-10-13
+48	URI	United Rentals, Inc.	Lowenthal, Alan (D-Calif)	Purchased	$15,001 to $50,000	2014-04-16	2014-04-23	2014-04-24	2014-04-30	2014-05-23	2014-06-23	2014-10-20
+49	V	Visa Inc.	Lowenthal, Alan (D-Calif)	Sold	$15,001 to $50,000	2013-08-06	2013-08-13	2013-08-14	2013-08-20	2013-09-12	2013-10-14	2014-02-10

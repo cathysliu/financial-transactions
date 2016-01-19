@@ -1,0 +1,4 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	CERN	Cerner Corporation	Bustos, Cheri (D-Ill)	Purchased	$15,001 to $50,000	2013-03-26	2013-04-02	2013-04-03	2013-04-09	2013-05-02	2013-06-03	2013-09-30
+2	EOG	EOG Resources, Inc.	Bustos, Cheri (D-Ill)	Purchased	$15,001 to $50,000	2013-03-26	2013-04-02	2013-04-03	2013-04-09	2013-05-02	2013-06-03	2013-09-30
+3	VZ	Verizon Communications Inc.	Bustos, Cheri (D-Ill)	Purchased	$15,001 to $50,000	2013-03-26	2013-04-02	2013-04-03	2013-04-09	2013-05-02	2013-06-03	2013-09-30

@@ -1,0 +1,28 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	CSIQ	Canadian Solar Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-20	2014-05-27	2014-05-28	2014-06-03	2014-06-26	2014-07-28	2014-11-24
+2	LKQ	LKQ Corporation	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+3	MSFT	Microsoft Corporation	DelBene, Suzan (D-Wash)	Sold	$250,001 to $500,000	2013-12-23	2013-12-30	2013-12-31	2014-01-06	2014-01-29	2014-02-28	2014-06-30
+4	MSFT	Microsoft Corporation	DelBene, Suzan (D-Wash)	Sold	$100,001 to $250,000	2013-12-23	2013-12-30	2013-12-31	2014-01-06	2014-01-29	2014-02-28	2014-06-30
+5	MSFT	Microsoft Corporation	DelBene, Suzan (D-Wash)	Sold	$1,000 to $15,000	2013-12-23	2013-12-30	2013-12-31	2014-01-06	2014-01-29	2014-02-28	2014-06-30
+6	MSFT	Microsoft Corporation	DelBene, Suzan (D-Wash)	Sold	$1,000,001 to $5,000,000	2013-09-04	2013-09-11	2013-09-12	2013-09-18	2013-10-11	2013-11-11	2014-03-10
+7	MSFT	Microsoft Corporation	DelBene, Suzan (D-Wash)	Sold	$1,000,001 to $5,000,000	2013-07-22	2013-07-29	2013-07-30	2013-08-05	2013-08-28	2013-09-27	2014-01-27
+8	MYRG	MYR Group, Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+9	RAVN	Raven Industries, Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+10	SZYM	Solazyme, Inc.	DelBene, Suzan (D-Wash)	Purchased	$1,000 to $15,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+11	ABB	ABB Ltd	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+12	AYI	Acuity Brands Inc	DelBene, Suzan (D-Wash)	Purchased	$1,000 to $15,000	2014-09-19	2014-09-26	2014-09-29	2014-10-03	2014-10-27	2014-11-25	2015-03-25
+13	AYI	Acuity Brands Inc	DelBene, Suzan (D-Wash)	Purchased	$1,000 to $15,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+14	BMI	Badger Meter, Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+15	CBI	Chicago Bridge & Iron Company N.V.	DelBene, Suzan (D-Wash)	Sold	$15,001 to $50,000	2014-06-18	2014-06-25	2014-06-26	2014-07-02	2014-07-25	2014-08-25	2014-12-22
+16	CBI	Chicago Bridge & Iron Company N.V.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+17	CCC	Calgon Carbon Corporation	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+18	EOG	EOG Resources, Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+19	FLTX	Fleetmatics Group PLC	DelBene, Suzan (D-Wash)	Purchased	$1,000 to $15,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+20	HASI	Hannon Armstrong Sustainable Infrastructure Capital, Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+21	JCI	Johnson Controls, Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+22	NES	Nuverra Environmental Solutions, Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+23	SSNI	Silver Spring Networks, Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+24	SWN	Southwestern Energy Company	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+25	SYT	Syngenta AG	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+26	VMI	Valmont Industries, Inc.	DelBene, Suzan (D-Wash)	Purchased	$15,001 to $50,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+27	VMI	Valmont Industries, Inc.	DelBene, Suzan (D-Wash)	Sold	$15,001 to $50,000	2014-05-22	2014-05-29	2014-05-30	2014-06-05	2014-06-30	2014-07-28	2014-11-25

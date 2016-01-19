@@ -1,0 +1,4 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	R	Fla	Bilirakis, Gus	PRU	Sold	8000	2013-04-04	-0.01757	NA	-0.06659	-0.08387	-0.06003
+2	2013	R	Fla	Bilirakis, Gus	STI	Sold	8000	2013-04-04	0.02911	NA	0.01061	0.03746	0.01636
+3	2013	R	Fla	Bilirakis, Gus	TSS	Sold	8000	2013-04-04	0.00881	-0.00412	-0.06034	-0.08769	0.1099

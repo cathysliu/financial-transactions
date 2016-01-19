@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	R	Calif	Miller, Gary	JEC	Sold	32500	2012-12-03	0.03159	0.02118	0.05063	0.09884	0.23104

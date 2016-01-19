@@ -1,0 +1,3 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	R	Calif	McCarthy, Kevin	AAPL	Sold	8000	2012-07-27	0.03216	0.05068	0.11429	0.04542	-0.34391
+2	2012	R	Calif	McCarthy, Kevin	AAPL	Purchased	8000	2012-07-27	0.05957	0.05404	NA	0.09081	-0.30791

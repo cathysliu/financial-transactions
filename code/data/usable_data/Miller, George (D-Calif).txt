@@ -1,0 +1,7 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	DMRC	Digimarc Corporation	Miller, George (D-Calif)	Purchased	$1,000 to $15,000	2014-01-24	2014-01-31	2014-02-03	2014-02-07	2014-03-03	2014-04-01	2014-07-30
+2	ROIC	Retail Opportunity Investments Corp.	Miller, George (D-Calif)	Purchased	$1,000 to $15,000	2013-06-25	2013-07-02	2013-07-03	2013-07-09	2013-08-01	2013-09-02	2013-12-30
+3	ROIC	Retail Opportunity Investments Corp.	Miller, George (D-Calif)	Purchased	$1,000 to $15,000	2013-05-03	2013-05-10	2013-05-13	2013-05-17	2013-06-10	2013-07-09	2013-11-06
+4	VOD	Vodafone Group Plc	Miller, George (D-Calif)	Purchased	$1,000 to $15,000	2014-04-11	2014-04-18	2014-04-21	2014-04-25	2014-05-19	2014-06-17	2014-10-15
+5	VOD	Vodafone Group Plc	Miller, George (D-Calif)	Purchased	$1,000 to $15,000	2012-07-23	2012-07-30	2012-07-31	2012-08-06	2012-08-29	2012-09-28	2013-01-28
+6	VZ	Verizon Communications Inc.	Miller, George (D-Calif)	Purchased	$1,000 to $15,000	2014-04-15	2014-04-22	2014-04-23	2014-04-29	2014-05-22	2014-06-23	2014-10-20

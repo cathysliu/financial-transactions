@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months
+1	2014	D	RI	Langevin, Jim	CSX	Sold	8000	2014-06-03	0.03161	0.03462	0.03871	0.01677

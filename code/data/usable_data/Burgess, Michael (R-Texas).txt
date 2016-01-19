@@ -1,0 +1,5 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	MSFT	Microsoft Corporation	Burgess, Michael (R-Texas)	Sold	$1,000 to $15,000	2014-03-10	2014-03-17	2014-03-18	2014-03-24	2014-04-16	2014-05-16	2014-09-15
+2	GE	General Electric Company	Burgess, Michael (R-Texas)	Sold	$1,000 to $15,000	2014-03-10	2014-03-17	2014-03-18	2014-03-24	2014-04-16	2014-05-16	2014-09-15
+3	UPS	United Parcel Service, Inc.	Burgess, Michael (R-Texas)	Sold	$1,000 to $15,000	2014-03-10	2014-03-17	2014-03-18	2014-03-24	2014-04-16	2014-05-16	2014-09-15
+4	VZ	Verizon Communications Inc.	Burgess, Michael (R-Texas)	Sold	$1,000 to $15,000	2014-03-10	2014-03-17	2014-03-18	2014-03-24	2014-04-16	2014-05-16	2014-09-15

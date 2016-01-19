@@ -1,0 +1,3 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	R	Okla	Cole, Tom	MSFT	Sold	8000	2013-05-14	0.08808	0.1076	0.1769	0.18386	0.12308
+2	2013	R	Okla	Cole, Tom	XOM	Purchased	8000	2013-05-14	0.01063	0.00903	0.01597	0.00993	-0.02833

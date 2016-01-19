@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months
+1	2014	R	Ky	Barr, Andy	GE	Sold	8000	2014-02-25	0.0092	0.01383	0.01972	0.04176

@@ -1,0 +1,9 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	D	Ill	Duckworth, Tammy	CSCO	Sold	8000	2013-02-20	0.02424	0.01508	-0.01101	-0.0625	NA
+2	2013	D	Ill	Duckworth, Tammy	CSCO	Sold	8000	2013-02-20	-0.01804	-0.0254	-0.04537	-0.07994	-0.21796
+3	2013	D	Ill	Duckworth, Tammy	CUK	Sold	8000	2013-02-20	-0.04083	-0.04169	-0.13233	-0.13862	-0.11713
+4	2013	D	Ill	Duckworth, Tammy	GLW	Exchanged	8000	2013-02-20	-0.01152	-0.00502	0.0036	NA	NA
+5	2013	D	Ill	Duckworth, Tammy	LMT	Sold	8000	2013-02-20	-0.00888	0.01301	-0.01649	NA	-0.01188
+6	2013	D	Ill	Duckworth, Tammy	PG	Sold	8000	2013-02-20	-0.02263	-0.00992	7e-05	0.00654	0.03708
+7	2013	D	Ill	Duckworth, Tammy	PG	Sold	8000	2013-02-20	0.00357	0.00839	0.00992	0.01713	0.07728
+8	2013	D	Ill	Duckworth, Tammy	UIS	Sold	8000	2013-02-20	-0.03209	-0.05486	NA	-0.25112	-0.00316

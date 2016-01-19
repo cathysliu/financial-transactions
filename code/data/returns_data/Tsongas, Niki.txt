@@ -1,0 +1,4 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2014	D	Mass	Tsongas, Niki	NU	Sold	32500	2014-03-13	-0.0029	0.01705	0.01915	0.07968	-0.0692
+2	2014	D	Mass	Tsongas, Niki	NU	Sold	32500	2014-03-13	-0.04636	-0.03349	-0.01772	NA	-0.04854
+3	2014	D	Mass	Tsongas, Niki	TMO	Sold	32500	2014-03-13	-0.01346	-0.04172	-0.03719	-0.04008	-0.07004

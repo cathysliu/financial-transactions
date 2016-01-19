@@ -1,0 +1,7 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	D	Calif	Farr, Sam	AMGN	Purchased	8000	2013-03-13	-0.00484	-0.02311	-0.06553	0.00063	-0.02189
+2	2013	D	Calif	Farr, Sam	INTC	Sold	32500	2013-03-13	-0.00603	0.02045	-0.02915	-0.03327	0.0324
+3	2013	D	Calif	Farr, Sam	CL	Sold	8000	2013-03-13	-0.00586	0.00983	0.0504	0.00692	-0.04168
+4	2013	D	Calif	Farr, Sam	ECL	Purchased	8000	2013-03-13	-0.00213	-0.02357	-0.04028	-0.00147	0.05857
+5	2013	D	Calif	Farr, Sam	HON	Purchased	8000	2013-03-13	0.00291	-0.00033	0.01491	0.01838	0.08745
+6	2013	D	Calif	Farr, Sam	UTX	Purchased	8000	2013-03-13	-0.00242	-0.01099	0.00393	-0.02013	0.09261

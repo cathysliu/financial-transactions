@@ -1,0 +1,4 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	PRU	Prudential Financial, Inc.	Bilirakis, Gus (R-Fla)	Sold	$1,000 to $15,000	2014-01-06	2014-01-13	2014-01-14	2014-01-20	2014-02-12	2014-03-14	2014-07-14
+2	STI	SunTrust Banks, Inc.	Bilirakis, Gus (R-Fla)	Sold	$1,000 to $15,000	2014-01-06	2014-01-13	2014-01-14	2014-01-20	2014-02-12	2014-03-14	2014-07-14
+3	TSS	Total System Services, Inc.	Bilirakis, Gus (R-Fla)	Sold	$1,000 to $15,000	2013-04-04	2013-04-11	2013-04-12	2013-04-18	2013-05-13	2013-06-10	2013-10-08

@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	R	Ariz	Flake, Jeff	AAPL	Sold	8000	2012-07-05	0.00192	0.00456	0.01951	0.05027	-0.20061

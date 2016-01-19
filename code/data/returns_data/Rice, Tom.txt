@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	R	SC	Rice, Tom	GE	Sold	8000	2013-10-16	0.04571	0.06043	0.06961	0.07319	0.02671

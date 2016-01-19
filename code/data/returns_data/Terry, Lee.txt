@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	R	Neb	Terry, Lee	PNW	Sold	8000	2013-05-10	-0.00494	-0.03572	-0.0339	-0.04151	-0.16424

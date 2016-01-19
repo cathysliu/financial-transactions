@@ -1,0 +1,4 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	SBUX	Starbucks Corporation	Schakowsky, Jan (D-Ill)	Sold	$1,000 to $15,000	2013-09-19	2013-09-26	2013-09-27	2013-10-03	2013-10-28	2013-11-25	2014-03-25
+2	DIS	Walt Disney Company (The)	Schakowsky, Jan (D-Ill)	Sold	$1,000 to $15,000	2013-09-19	2013-09-26	2013-09-27	2013-10-03	2013-10-28	2013-11-25	2014-03-25
+3	WAG	Walgreen Co.	Schakowsky, Jan (D-Ill)	Sold	$1,000 to $15,000	2013-09-19	2013-09-26	2013-09-27	2013-10-03	2013-10-28	2013-11-25	2014-03-25

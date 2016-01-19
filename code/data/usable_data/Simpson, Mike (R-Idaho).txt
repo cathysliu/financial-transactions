@@ -1,0 +1,15 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	TESO	Tesco Corporation	Simpson, Mike (R-Idaho)	Purchased	$1,000 to $15,000	2013-10-30	2013-11-06	2013-11-07	2013-11-13	2013-12-06	2014-01-06	2014-05-05
+2	ABX	Barrick Gold Corporation	Simpson, Mike (R-Idaho)	Purchased	$0 to $0	2013-09-12	2013-09-19	2013-09-20	2013-09-26	2013-10-21	2013-11-18	2014-03-18
+3	ABX	Barrick Gold Corporation	Simpson, Mike (R-Idaho)	Purchased	$1,000 to $15,000	2013-02-19	2013-02-26	2013-02-27	2013-03-05	2013-03-28	2013-04-29	2013-08-26
+4	AUY	Yamana Gold Inc.	Simpson, Mike (R-Idaho)	Purchased	$1,000 to $15,000	2013-08-13	2013-08-20	2013-08-21	2013-08-27	2013-09-19	2013-10-21	2014-02-17
+5	CHL	China Mobile (Hong Kong) Ltd.	Simpson, Mike (R-Idaho)	Purchased	$1,000 to $15,000	2014-03-04	2014-03-11	2014-03-12	2014-03-18	2014-04-10	2014-05-12	2014-09-08
+6	CPE	Callon Petroleum Company	Simpson, Mike (R-Idaho)	Sold	$15,001 to $50,000	2014-06-02	2014-06-09	2014-06-10	2014-06-16	2014-07-09	2014-08-08	2014-12-08
+7	GG	Goldcorp Inc.	Simpson, Mike (R-Idaho)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+8	NJ	Nidec Corporation (Nihon Densan Kabushiki Kaisha)	Simpson, Mike (R-Idaho)	Sold	$1,000 to $15,000	2012-11-01	2012-11-08	2012-11-09	2012-11-15	2012-12-10	2013-01-07	2013-05-07
+9	PDS	Precision Drilling Corporation	Simpson, Mike (R-Idaho)	Sold	$1,000 to $15,000	2014-06-16	2014-06-23	2014-06-24	2014-06-30	2014-07-23	2014-08-22	2014-12-22
+10	PDS	Precision Drilling Corporation	Simpson, Mike (R-Idaho)	Sold	$1,000 to $15,000	2014-03-11	2014-03-18	2014-03-19	2014-03-25	2014-04-17	2014-05-19	2014-09-15
+11	PDS	Precision Drilling Corporation	Simpson, Mike (R-Idaho)	Sold	$1,000 to $15,000	2013-10-22	2013-10-29	2013-10-30	2013-11-05	2013-11-28	2013-12-30	2014-04-28
+12	PDS	Precision Drilling Corporation	Simpson, Mike (R-Idaho)	Purchased	$1,000 to $15,000	2012-07-17	2012-07-24	2012-07-25	2012-07-31	2012-08-23	2012-09-24	2013-01-21
+13	SYT	Syngenta AG	Simpson, Mike (R-Idaho)	Sold	$1,000 to $15,000	2012-11-08	2012-11-15	2012-11-16	2012-11-22	2012-12-17	2013-01-14	2013-05-14
+14	SYT	Syngenta AG	Simpson, Mike (R-Idaho)	Sold	$1,000 to $15,000	2013-06-21	2013-06-28	2013-07-01	2013-07-05	2013-07-29	2013-08-27	2013-12-25

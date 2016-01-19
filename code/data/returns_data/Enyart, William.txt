@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	D	Ill	Enyart, William	GE	Sold	32500	2013-02-15	0.00966	0.00619	-0.01557	-0.10532	-0.05656

@@ -1,0 +1,20 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	AAPL	Apple Inc.	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2014-10-21	2014-10-28	2014-10-29	2014-11-04	2014-11-27	2014-12-29	2015-04-27
+2	INTC	Intel Corporation	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2013-06-12	2013-06-19	2013-06-20	2013-06-26	2013-07-19	2013-08-19	2013-12-16
+3	INTC	Intel Corporation	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2013-12-10	2013-12-17	2013-12-18	2013-12-24	2014-01-16	2014-02-17	2014-06-16
+4	INTC	Intel Corporation	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2013-10-03	2013-10-10	2013-10-11	2013-10-17	2013-11-11	2013-12-09	2014-04-08
+5	MSFT	Microsoft Corporation	Gibbs, Bob (R-Ohio)	Sold	$1,000 to $15,000	2014-05-23	2014-05-30	2014-06-02	2014-06-06	2014-06-30	2014-07-29	2014-11-26
+6	VOD	Vodafone Group Plc	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2013-04-30	2013-05-07	2013-05-08	2013-05-14	2013-06-06	2013-07-08	2013-11-04
+7	VOD	Vodafone Group Plc	Gibbs, Bob (R-Ohio)	Sold	$1,000 to $15,000	2014-04-15	2014-04-22	2014-04-23	2014-04-29	2014-05-22	2014-06-23	2014-10-20
+8	B	Barnes Group, Inc.	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2014-01-15	2014-01-22	2014-01-23	2014-01-29	2014-02-21	2014-03-24	2014-07-21
+9	CAH	Cardinal Health, Inc.	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2013-11-09	2013-11-18	2013-11-18	2013-11-25	2013-12-16	2014-01-15	2014-05-15
+10	EXC	Exelon Corporation	Gibbs, Bob (R-Ohio)	Sold	$1,000 to $15,000	2013-11-25	2013-12-02	2013-12-03	2013-12-09	2014-01-01	2014-01-31	2014-06-02
+11	HSY	Hershey Company (The)	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2013-01-30	2013-02-06	2013-02-07	2013-02-13	2013-03-08	2013-04-08	2013-08-05
+12	NLY	Annaly Capital Management Inc	Gibbs, Bob (R-Ohio)	Sold	$1,000 to $15,000	2013-11-14	2013-11-21	2013-11-22	2013-11-28	2013-12-23	2014-01-20	2014-05-20
+13	NOV	National Oilwell Varco, Inc.	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2014-01-03	2014-01-10	2014-01-13	2014-01-17	2014-02-10	2014-03-11	2014-07-09
+14	SEP	Spectra Energy Partners, LP	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2012-11-29	2012-12-06	2012-12-07	2012-12-13	2013-01-07	2013-02-04	2013-06-04
+15	TEG	Integrys Energy Group	Gibbs, Bob (R-Ohio)	Sold	$1,000 to $15,000	2014-01-03	2014-01-10	2014-01-13	2014-01-17	2014-02-10	2014-03-11	2014-07-09
+16	TKR	Timken Company (The)	Gibbs, Bob (R-Ohio)	Exchanged	$1,000 to $15,000	2014-06-30	2014-07-07	2014-07-08	2014-07-14	2014-08-06	2014-09-05	2015-01-05
+17	TKR	Timken Company (The)	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2014-05-15	2014-05-22	2014-05-23	2014-05-29	2014-06-23	2014-07-21	2014-11-18
+18	TKR	Timken Company (The)	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2013-12-18	2013-12-25	2013-12-26	2014-01-01	2014-01-24	2014-02-24	2014-06-23
+19	VZ	Verizon Communications Inc.	Gibbs, Bob (R-Ohio)	Purchased	$1,000 to $15,000	2014-05-05	2014-05-12	2014-05-13	2014-05-19	2014-06-11	2014-07-11	2014-11-10

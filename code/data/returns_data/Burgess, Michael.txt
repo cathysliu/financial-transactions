@@ -1,0 +1,5 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2014	R	Texas	Burgess, Michael	MSFT	Sold	8000	2014-03-10	0.0474	0.08366	0.08525	0.07392	0.197
+2	2014	R	Texas	Burgess, Michael	GE	Sold	8000	2014-03-10	-0.01326	-0.01156	0.02005	0.03758	-0.0385
+3	2014	R	Texas	Burgess, Michael	UPS	Sold	8000	2014-03-10	-0.01187	-0.00151	0.00286	0.04642	-0.03986
+4	2014	R	Texas	Burgess, Michael	VZ	Sold	8000	2014-03-10	-0.00546	0.01221	0.02945	0.0683	0.01314

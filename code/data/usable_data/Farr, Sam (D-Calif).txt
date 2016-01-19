@@ -1,0 +1,7 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	AMGN	Amgen Inc.	Farr, Sam (D-Calif)	Purchased	$1,000 to $15,000	2012-12-27	2013-01-03	2013-01-04	2013-01-10	2013-02-04	2013-03-04	2013-07-02
+2	INTC	Intel Corporation	Farr, Sam (D-Calif)	Sold	$15,001 to $50,000	2012-12-27	2013-01-03	2013-01-04	2013-01-10	2013-02-04	2013-03-04	2013-07-02
+3	CL	Colgate-Palmolive Company	Farr, Sam (D-Calif)	Sold	$1,000 to $15,000	2013-03-13	2013-03-20	2013-03-21	2013-03-27	2013-04-19	2013-05-20	2013-09-16
+4	ECL	Ecolab Inc.	Farr, Sam (D-Calif)	Purchased	$1,000 to $15,000	2012-12-27	2013-01-03	2013-01-04	2013-01-10	2013-02-04	2013-03-04	2013-07-02
+5	HON	Honeywell International Inc.	Farr, Sam (D-Calif)	Purchased	$1,000 to $15,000	2012-12-27	2013-01-03	2013-01-04	2013-01-10	2013-02-04	2013-03-04	2013-07-02
+6	UTX	United Technologies Corporation	Farr, Sam (D-Calif)	Purchased	$1,000 to $15,000	2013-03-13	2013-03-20	2013-03-21	2013-03-27	2013-04-19	2013-05-20	2013-09-16

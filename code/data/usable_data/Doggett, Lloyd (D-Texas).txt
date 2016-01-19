@@ -1,0 +1,37 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	CSCO	Cisco Systems, Inc.	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+2	INTC	Intel Corporation	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+3	LMNX	Luminex Corporation	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+4	TXN	Texas Instruments Incorporated	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+5	WFM	Whole Foods Market, Inc.	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-01-03	2013-01-10	2013-01-11	2013-01-17	2013-02-11	2013-03-11	2013-07-09
+6	WFM	Whole Foods Market, Inc.	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2012-10-09	2012-10-16	2012-10-17	2012-10-23	2012-11-15	2012-12-17	2013-04-15
+7	WFM	Whole Foods Market, Inc.	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2012-12-31	2013-01-07	2013-01-08	2013-01-14	2013-02-06	2013-03-08	2013-07-08
+8	WFM	Whole Foods Market, Inc.	Doggett, Lloyd (D-Texas)	Purchased	$15,001 to $50,000	2012-12-31	2013-01-07	2013-01-08	2013-01-14	2013-02-06	2013-03-08	2013-07-08
+9	APA	Apache Corporation	Doggett, Lloyd (D-Texas)	Sold	$100,001 to $250,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+10	APC	Anadarko Petroleum Corporation	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+11	BAC	Bank of America Corporation	Doggett, Lloyd (D-Texas)	Sold	$1,000 to $15,000	2012-12-17	2012-12-24	2012-12-25	2012-12-31	2013-01-23	2013-02-22	2013-06-24
+12	BAC	Bank of America Corporation	Doggett, Lloyd (D-Texas)	Sold	$1,000 to $15,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+13	BAX	Baxter International Inc.	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+14	BMY	Bristol-Myers Squibb Company	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+15	C	Citigroup Inc.	Doggett, Lloyd (D-Texas)	Sold	$1,000 to $15,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+16	CVX	Chevron Corporation	Doggett, Lloyd (D-Texas)	Sold	$100,001 to $250,000	2013-03-14	2013-03-21	2013-03-22	2013-03-28	2013-04-22	2013-05-20	2013-09-17
+17	FE	FirstEnergy Corporation	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2012-12-28	2013-01-04	2013-01-07	2013-01-11	2013-02-04	2013-03-05	2013-07-03
+18	HON	Honeywell International Inc.	Doggett, Lloyd (D-Texas)	Sold	$50,001 to $100,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+19	IP	International Paper Company	Doggett, Lloyd (D-Texas)	Sold	$1,000 to $15,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+20	MRK	Merck & Company, Inc.	Doggett, Lloyd (D-Texas)	Sold	$100,001 to $250,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+21	NOK	Nokia Corporation	Doggett, Lloyd (D-Texas)	Sold	$1,000 to $15,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+22	ORCL	Oracle Corporation	Doggett, Lloyd (D-Texas)	Sold	$50,001 to $100,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+23	PG	Procter & Gamble Company (The)	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2014-08-18	2014-08-25	2014-08-26	2014-09-01	2014-09-24	2014-10-24	2015-02-23
+24	PG	Procter & Gamble Company (The)	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2013-05-15	2013-05-22	2013-05-23	2013-05-29	2013-06-21	2013-07-22	2013-11-18
+25	PG	Procter & Gamble Company (The)	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2012-08-15	2012-08-22	2012-08-23	2012-08-29	2012-09-21	2012-10-22	2013-02-18
+26	PG	Procter & Gamble Company (The)	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2014-02-19	2014-02-26	2014-02-27	2014-03-05	2014-03-28	2014-04-28	2014-08-25
+27	PG	Procter & Gamble Company (The)	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2012-11-16	2012-11-23	2012-11-26	2012-11-30	2012-12-24	2013-01-22	2013-05-22
+28	PG	Procter & Gamble Company (The)	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2014-05-15	2014-05-22	2014-05-23	2014-05-29	2014-06-23	2014-07-21	2014-11-18
+29	PG	Procter & Gamble Company (The)	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2013-02-19	2013-02-26	2013-02-27	2013-03-05	2013-03-28	2013-04-29	2013-08-26
+30	T	AT&T Inc.	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+31	UNP	Union Pacific Corporation	Doggett, Lloyd (D-Texas)	Sold	$50,001 to $100,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+32	VZ	Verizon Communications Inc.	Doggett, Lloyd (D-Texas)	Sold	$15,001 to $50,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+33	XOM	Exxon Mobil Corporation	Doggett, Lloyd (D-Texas)	Sold	$100,001 to $250,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+34	XOM	Exxon Mobil Corporation	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2012-12-10	2012-12-17	2012-12-18	2012-12-24	2013-01-16	2013-02-15	2013-06-17
+35	XOM	Exxon Mobil Corporation	Doggett, Lloyd (D-Texas)	Purchased	$1,000 to $15,000	2012-09-11	2012-09-18	2012-09-19	2012-09-25	2012-10-18	2012-11-19	2013-03-18
+36	XRX	Xerox Corporation	Doggett, Lloyd (D-Texas)	Sold	$1,000 to $15,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16

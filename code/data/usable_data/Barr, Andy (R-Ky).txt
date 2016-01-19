@@ -1,0 +1,2 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	GE	General Electric Company	Barr, Andy (R-Ky)	Sold	$1,000 to $15,000	2014-02-25	2014-03-04	2014-03-05	2014-03-11	2014-04-03	2014-05-05	2014-09-01

@@ -1,0 +1,7 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2014	D	Calif	Miller, George	DMRC	Purchased	8000	2014-04-15	0.10604	-0.02751	-0.08418	-0.03243	-0.22835
+2	2014	D	Calif	Miller, George	ROIC	Purchased	8000	2014-04-15	1e-05	-0.01317	-0.05244	NA	-0.01716
+3	2014	D	Calif	Miller, George	ROIC	Purchased	8000	2014-04-15	0.00808	0.00633	-0.05392	-0.1092	-0.10116
+4	2014	D	Calif	Miller, George	VOD	Purchased	8000	2014-04-15	-0.00901	0.01286	-0.00728	-0.09572	NA
+5	2014	D	Calif	Miller, George	VOD	Purchased	8000	2014-04-15	0.00992	0.03451	0.00255	-0.0468	-0.1361
+6	2014	D	Calif	Miller, George	VZ	Purchased	8000	2014-04-15	-0.00868	-0.01962	0.03067	-0.00475	NA

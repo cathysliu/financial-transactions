@@ -1,0 +1,3 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	BAC	Bank of America Corporation	Walden, Greg (R-Ore)	Sold	$1,000 to $15,000	2013-10-04	2013-10-11	2013-10-14	2013-10-18	2013-11-11	2013-12-10	2014-04-09
+2	PG	Procter & Gamble Company (The)	Walden, Greg (R-Ore)	Sold	$1,000 to $15,000	2013-10-04	2013-10-11	2013-10-14	2013-10-18	2013-11-11	2013-12-10	2014-04-09

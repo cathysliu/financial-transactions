@@ -1,0 +1,12 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	EML	Eastern Company (The)	Peters, Scott (D-Calif)	Sold	$1,000,001 to $5,000,000	2014-06-30	2014-07-07	2014-07-08	2014-07-14	2014-08-06	2014-09-05	2015-01-05
+2	EML	Eastern Company (The)	Peters, Scott (D-Calif)	Sold	$100,001 to $250,000	2014-05-15	2014-05-22	2014-05-23	2014-05-29	2014-06-23	2014-07-21	2014-11-18
+3	EML	Eastern Company (The)	Peters, Scott (D-Calif)	Sold	$1,000 to $15,000	2014-05-14	2014-05-21	2014-05-22	2014-05-28	2014-06-20	2014-07-21	2014-11-17
+4	EML	Eastern Company (The)	Peters, Scott (D-Calif)	Sold	$1,000 to $15,000	2014-05-12	2014-05-19	2014-05-20	2014-05-26	2014-06-18	2014-07-18	2014-11-17
+5	EML	Eastern Company (The)	Peters, Scott (D-Calif)	Sold	$50,001 to $100,000	2014-05-09	2014-05-16	2014-05-19	2014-05-23	2014-06-16	2014-07-15	2014-11-12
+6	EML	Eastern Company (The)	Peters, Scott (D-Calif)	Sold	$1,000 to $15,000	2014-03-24	2014-03-31	2014-04-01	2014-04-07	2014-04-30	2014-05-30	2014-09-29
+7	EML	Eastern Company (The)	Peters, Scott (D-Calif)	Sold	$50,001 to $100,000	2013-03-20	2013-03-27	2013-03-28	2013-04-03	2013-04-26	2013-05-27	2013-09-23
+8	EML	Eastern Company (The)	Peters, Scott (D-Calif)	Sold	$15,001 to $50,000	2013-02-19	2013-02-26	2013-02-27	2013-03-05	2013-03-28	2013-04-29	2013-08-26
+9	GHM	Graham Corporation	Peters, Scott (D-Calif)	Sold	$1,000 to $15,000	2013-05-24	2013-05-31	2013-06-03	2013-06-07	2013-07-01	2013-07-30	2013-11-27
+10	GHM	Graham Corporation	Peters, Scott (D-Calif)	Sold	$100,001 to $250,000	2013-03-06	2013-03-13	2013-03-14	2013-03-20	2013-04-12	2013-05-13	2013-09-09
+11	GHM	Graham Corporation	Peters, Scott (D-Calif)	Sold	$500,001 to $1,000,000	2013-03-04	2013-03-11	2013-03-12	2013-03-18	2013-04-10	2013-05-10	2013-09-09

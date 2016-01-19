@@ -1,0 +1,3 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	R	Wis	Petri, Tom	PCL	Purchased	75000	2012-12-17	0.01633	0.03421	0.05648	0.03526	-0.14235
+2	2012	R	Wis	Petri, Tom	TEG	Sold	8000	2012-12-17	NA	-0.03227	-0.04172	-0.01702	-0.02642

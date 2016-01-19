@@ -1,0 +1,57 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	AAPL	Apple Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2014-08-06	2014-08-13	2014-08-14	2014-08-20	2014-09-12	2014-10-13	2015-02-09
+2	AAPL	Apple Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+3	AMGN	Amgen Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-28	2013-09-04	2013-09-05	2013-09-11	2013-10-04	2013-11-04	2014-03-03
+4	AMGN	Amgen Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-04-17	2013-04-24	2013-04-25	2013-05-01	2013-05-24	2013-06-24	2013-10-21
+5	BRCM	Broadcom Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-09-12	2013-09-19	2013-09-20	2013-09-26	2013-10-21	2013-11-18	2014-03-18
+6	CMCSA	Comcast Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+7	CSCO	Cisco Systems, Inc.	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2013-01-04	2013-01-11	2013-01-14	2013-01-18	2013-02-11	2013-03-12	2013-07-10
+8	CSCO	Cisco Systems, Inc.	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2013-02-12	2013-02-19	2013-02-20	2013-02-26	2013-03-21	2013-04-22	2013-08-19
+9	INTC	Intel Corporation	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2013-01-04	2013-01-11	2013-01-14	2013-01-18	2013-02-11	2013-03-12	2013-07-10
+10	MSFT	Microsoft Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2014-08-06	2014-08-13	2014-08-14	2014-08-20	2014-09-12	2014-10-13	2015-02-09
+11	MSFT	Microsoft Corporation	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2013-02-12	2013-02-19	2013-02-20	2013-02-26	2013-03-21	2013-04-22	2013-08-19
+12	MSFT	Microsoft Corporation	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2013-01-04	2013-01-11	2013-01-14	2013-01-18	2013-02-11	2013-03-12	2013-07-10
+13	ALL	Allstate Corporation (The)	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-04-17	2013-04-24	2013-04-25	2013-05-01	2013-05-24	2013-06-24	2013-10-21
+14	ALL	Allstate Corporation (The)	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2014-08-06	2014-08-13	2014-08-14	2014-08-20	2014-09-12	2014-10-13	2015-02-09
+15	BNS	Bank of Nova Scotia (The)	Boehner, John (R-Ohio)	Sold	$15,001 to $50,000	2013-02-20	2013-02-27	2013-02-28	2013-03-06	2013-03-29	2013-04-29	2013-08-26
+16	BNS	Bank of Nova Scotia (The)	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-02-21	2013-02-28	2013-03-01	2013-03-07	2013-04-01	2013-04-29	2013-08-27
+17	BNS	Bank of Nova Scotia (The)	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2013-01-04	2013-01-11	2013-01-14	2013-01-18	2013-02-11	2013-03-12	2013-07-10
+18	CAH	Cardinal Health, Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2014-02-27	2014-03-06	2014-03-07	2014-03-13	2014-04-07	2014-05-05	2014-09-02
+19	COP	ConocoPhillips	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2014-08-06	2014-08-13	2014-08-14	2014-08-20	2014-09-12	2014-10-13	2015-02-09
+20	DO	Diamond Offshore Drilling, Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2014-02-06	2014-02-13	2014-02-14	2014-02-20	2014-03-17	2014-04-14	2014-08-12
+21	DOV	Dover Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+22	EMC	EMC Corporation	Boehner, John (R-Ohio)	Purchased	$15,001 to $50,000	2013-03-18	2013-03-25	2013-03-26	2013-04-01	2013-04-24	2013-05-24	2013-09-23
+23	HD	Home Depot, Inc. (The)	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2012-12-11	2012-12-18	2012-12-19	2012-12-25	2013-01-17	2013-02-18	2013-06-17
+24	HD	Home Depot, Inc. (The)	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-05-31	2013-06-07	2013-06-10	2013-06-14	2013-07-08	2013-08-06	2013-12-04
+25	HD	Home Depot, Inc. (The)	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+26	HD	Home Depot, Inc. (The)	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-07-22	2013-07-29	2013-07-30	2013-08-05	2013-08-28	2013-09-27	2014-01-27
+27	HD	Home Depot, Inc. (The)	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-02-12	2013-02-19	2013-02-20	2013-02-26	2013-03-21	2013-04-22	2013-08-19
+28	HON	Honeywell International Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+29	HON	Honeywell International Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-07-22	2013-07-29	2013-07-30	2013-08-05	2013-08-28	2013-09-27	2014-01-27
+30	HPQ	Hewlett-Packard Company	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2012-11-13	2012-11-20	2012-11-21	2012-11-27	2012-12-20	2013-01-21	2013-05-20
+31	JNJ	Johnson & Johnson	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2012-08-30	2012-09-06	2012-09-07	2012-09-13	2012-10-08	2012-11-05	2013-03-05
+32	JNJ	Johnson & Johnson	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-28	2013-09-04	2013-09-05	2013-09-11	2013-10-04	2013-11-04	2014-03-03
+33	LNC	Lincoln National Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+34	LNC	Lincoln National Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-07-22	2013-07-29	2013-07-30	2013-08-05	2013-08-28	2013-09-27	2014-01-27
+35	MRK	Merck & Company, Inc.	Boehner, John (R-Ohio)	Purchased	$15,001 to $50,000	2014-02-07	2014-02-14	2014-02-17	2014-02-21	2014-03-17	2014-04-15	2014-08-13
+36	OXY	Occidental Petroleum Corporation	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2013-02-12	2013-02-19	2013-02-20	2013-02-26	2013-03-21	2013-04-22	2013-08-19
+37	PH	Parker-Hannifin Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+38	PH	Parker-Hannifin Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-07-22	2013-07-29	2013-07-30	2013-08-05	2013-08-28	2013-09-27	2014-01-27
+39	PNC	PNC Financial Services Group, Inc. (The)	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2013-02-12	2013-02-19	2013-02-20	2013-02-26	2013-03-21	2013-04-22	2013-08-19
+40	PPG	PPG Industries, Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-05-31	2013-06-07	2013-06-10	2013-06-14	2013-07-08	2013-08-06	2013-12-04
+41	PPG	PPG Industries, Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2014-08-06	2014-08-13	2014-08-14	2014-08-20	2014-09-12	2014-10-13	2015-02-09
+42	PPG	PPG Industries, Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+43	PPG	PPG Industries, Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2012-12-11	2012-12-18	2012-12-19	2012-12-25	2013-01-17	2013-02-18	2013-06-17
+44	PPG	PPG Industries, Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-07-22	2013-07-29	2013-07-30	2013-08-05	2013-08-28	2013-09-27	2014-01-27
+45	PPG	PPG Industries, Inc.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-01-04	2013-01-11	2013-01-14	2013-01-18	2013-02-11	2013-03-12	2013-07-10
+46	STT	State Street Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-07-22	2013-07-29	2013-07-30	2013-08-05	2013-08-28	2013-09-27	2014-01-27
+47	TEL	TE Connectivity Ltd.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-04-17	2013-04-24	2013-04-25	2013-05-01	2013-05-24	2013-06-24	2013-10-21
+48	TEL	TE Connectivity Ltd.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+49	TEL	TE Connectivity Ltd.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-02-12	2013-02-19	2013-02-20	2013-02-26	2013-03-21	2013-04-22	2013-08-19
+50	TEL	TE Connectivity Ltd.	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-07-22	2013-07-29	2013-07-30	2013-08-05	2013-08-28	2013-09-27	2014-01-27
+51	TEVA	Teva Pharmaceutical Industries Limited	Boehner, John (R-Ohio)	Purchased	$15,001 to $50,000	2013-05-29	2013-06-05	2013-06-06	2013-06-12	2013-07-05	2013-08-05	2013-12-02
+52	TEVA	Teva Pharmaceutical Industries Limited	Boehner, John (R-Ohio)	Purchased	$1,000 to $15,000	2012-08-30	2012-09-06	2012-09-07	2012-09-13	2012-10-08	2012-11-05	2013-03-05
+53	UNH	UnitedHealth Group Incorporated	Boehner, John (R-Ohio)	Purchased	$15,001 to $50,000	2012-09-19	2012-09-26	2012-09-27	2012-10-03	2012-10-26	2012-11-26	2013-03-25
+54	UPS	United Parcel Service, Inc.	Boehner, John (R-Ohio)	Purchased	$15,001 to $50,000	2014-09-04	2014-09-11	2014-09-12	2014-09-18	2014-10-13	2014-11-10	2015-03-10
+55	UTX	United Technologies Corporation	Boehner, John (R-Ohio)	Sold	$1,000 to $15,000	2013-08-15	2013-08-22	2013-08-23	2013-08-29	2013-09-23	2013-10-21	2014-02-18
+56	WMT	Wal-Mart Stores, Inc.	Boehner, John (R-Ohio)	Sold	$15,001 to $50,000	2014-02-25	2014-03-04	2014-03-05	2014-03-11	2014-04-03	2014-05-05	2014-09-01

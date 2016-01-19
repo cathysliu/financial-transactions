@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2012	R	SC	Wilson, Joe	XOM	Sold	8000	2012-03-26	-0.01053	-0.0095	0.00223	0.00404	0.05786

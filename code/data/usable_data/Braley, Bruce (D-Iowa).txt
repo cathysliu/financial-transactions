@@ -1,0 +1,34 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	AAPL	Apple Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+2	AVGO	Avago Technologies Limited	Braley, Bruce (D-Iowa)	Sold	$0 to $0	2013-02-06	2013-02-13	2013-02-14	2013-02-20	2013-03-15	2013-04-15	2013-08-12
+3	CAR	Avis Budget Group, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+4	IPHS	Innophos Holdings, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+5	MENT	Mentor Graphics Corporation	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-04-01	2013-04-08	2013-04-09	2013-04-15	2013-05-08	2013-06-07	2013-10-07
+6	ROSE	Rosetta Resources Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+7	SCSS	Select Comfort Corporation	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+8	SPPI	Spectrum Pharmaceuticals, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-03-06	2013-03-13	2013-03-14	2013-03-20	2013-04-12	2013-05-13	2013-09-09
+9	WFM	Whole Foods Market, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-04-01	2013-04-08	2013-04-09	2013-04-15	2013-05-08	2013-06-07	2013-10-07
+10	AMT	American Tower Corporation (REIT)	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+11	ASH	Ashland Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-03	2013-05-10	2013-05-13	2013-05-17	2013-06-10	2013-07-09	2013-11-06
+12	CCI	Crown Castle International Corporation	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+13	CLV	Cliffs Natural Resources Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-04-01	2013-04-08	2013-04-09	2013-04-15	2013-05-08	2013-06-07	2013-10-07
+14	CMS	CMS Energy Corporation	Braley, Bruce (D-Iowa)	Purchased	$1,000 to $15,000	2013-05-03	2013-05-10	2013-05-13	2013-05-17	2013-06-10	2013-07-09	2013-11-06
+15	EMC	EMC Corporation	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+16	HAL	Halliburton Company	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+17	INGR	Ingredion Incorporated	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+18	IP	International Paper Company	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+19	LGF	Lions Gate Entertainment Corporation	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+20	MHFI	McGraw Hill Financial, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-03-06	2013-03-13	2013-03-14	2013-03-20	2013-04-12	2013-05-13	2013-09-09
+21	NRG	NRG Energy, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+22	NUS	Nu Skin Enterprises, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+23	OCN	Ocwen Financial Corporation	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+24	SCS	Steelcase Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+25	T	AT&T Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+26	TKR	Timken Company (The)	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+27	TWI	Titan International, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-03	2013-05-10	2013-05-13	2013-05-17	2013-06-10	2013-07-09	2013-11-06
+28	TWO	Two Harbors Investments Corp	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+29	UGI	UGI Corporation	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+30	UHS	Universal Health Services, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+31	URI	United Rentals, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+32	WMB	Williams Companies, Inc. (The)	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03
+33	WMT	Wal-Mart Stores, Inc.	Braley, Bruce (D-Iowa)	Sold	$1,000 to $15,000	2013-05-30	2013-06-06	2013-06-07	2013-06-13	2013-07-08	2013-08-05	2013-12-03

@@ -1,0 +1,2 @@
+Year	Party	State	Member	Ticker	Action	Value	Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	2013	D	Calif	Lofgren, Zoe	TSLA	Purchased	8000	2013-10-20	-0.06468	0.00504	-0.32897	-0.15202	0.09814

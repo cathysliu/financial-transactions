@@ -1,0 +1,13 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	COST	Costco Wholesale Corporation	Price, David (D-NC)	Purchased	$1,000 to $15,000	2014-06-18	2014-06-25	2014-06-26	2014-07-02	2014-07-25	2014-08-25	2014-12-22
+2	GILD	Gilead Sciences, Inc.	Price, David (D-NC)	Purchased	$1,000 to $15,000	2014-08-12	2014-08-19	2014-08-20	2014-08-26	2014-09-18	2014-10-20	2015-02-16
+3	GILD	Gilead Sciences, Inc.	Price, David (D-NC)	Purchased	$1,000 to $15,000	2013-07-03	2013-07-10	2013-07-11	2013-07-17	2013-08-09	2013-09-09	2014-01-06
+4	MAR	Marriott International	Price, David (D-NC)	Sold	$1,000 to $15,000	2013-12-11	2013-12-18	2013-12-19	2013-12-25	2014-01-17	2014-02-17	2014-06-16
+5	HON	Honeywell International Inc.	Price, David (D-NC)	Purchased	$1,000 to $15,000	2014-08-12	2014-08-19	2014-08-20	2014-08-26	2014-09-18	2014-10-20	2015-02-16
+6	HON	Honeywell International Inc.	Price, David (D-NC)	Purchased	$1,000 to $15,000	2013-07-03	2013-07-10	2013-07-11	2013-07-17	2013-08-09	2013-09-09	2014-01-06
+7	MMP	Magellan Midstream Partners L.P.	Price, David (D-NC)	Purchased	$1,000 to $15,000	2013-07-03	2013-07-10	2013-07-11	2013-07-17	2013-08-09	2013-09-09	2014-01-06
+8	MSI	Motorola Solutions, Inc.	Price, David (D-NC)	Sold	$1,000 to $15,000	2014-08-12	2014-08-19	2014-08-20	2014-08-26	2014-09-18	2014-10-20	2015-02-16
+9	NOK	Nokia Corporation	Price, David (D-NC)	Sold	$1,000 to $15,000	2013-12-11	2013-12-18	2013-12-19	2013-12-25	2014-01-17	2014-02-17	2014-06-16
+10	PAA	Plains All American Pipeline, L.P.	Price, David (D-NC)	Purchased	$1,000 to $15,000	2012-07-26	2012-08-02	2012-08-03	2012-08-09	2012-09-03	2012-10-01	2013-01-29
+11	VRX	Valeant Pharmaceuticals International, Inc.	Price, David (D-NC)	Sold	$1,000 to $15,000	2014-08-12	2014-08-19	2014-08-20	2014-08-26	2014-09-18	2014-10-20	2015-02-16
+12	WU	Western Union Company (The)	Price, David (D-NC)	Purchased	$1,000 to $15,000	2013-06-10	2013-06-17	2013-06-18	2013-06-24	2013-07-17	2013-08-16	2013-12-16

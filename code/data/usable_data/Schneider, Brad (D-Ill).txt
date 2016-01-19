@@ -1,0 +1,189 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	AAL	American Airlines Group, Inc.	Schneider, Brad (D-Ill)	Purchased	$100,001 to $250,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+2	AAPL	Apple Inc.	Schneider, Brad (D-Ill)	Sold	$50,001 to $100,000	2013-01-15	2013-01-22	2013-01-23	2013-01-29	2013-02-21	2013-03-25	2013-07-22
+3	ACGL	Arch Capital Group Ltd.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+4	AKAM	Akamai Technologies, Inc.	Schneider, Brad (D-Ill)	Purchased	$15,001 to $50,000	2014-02-26	2014-03-05	2014-03-06	2014-03-12	2014-04-04	2014-05-05	2014-09-01
+5	AKAM	Akamai Technologies, Inc.	Schneider, Brad (D-Ill)	Sold	$50,001 to $100,000	2014-04-02	2014-04-09	2014-04-10	2014-04-16	2014-05-09	2014-06-09	2014-10-06
+6	ALOG	Analogic Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+7	AMKR	Amkor Technology, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-01-17	2014-01-24	2014-01-27	2014-01-31	2014-02-24	2014-03-25	2014-07-23
+8	AUXL	Auxilium Pharmaceuticals, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+9	AZPN	Aspen Technology, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+10	BEAV	B/E Aerospace, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-09-26	2014-10-03	2014-10-06	2014-10-10	2014-11-03	2014-12-02	2015-04-01
+11	BECN	Beacon Roofing Supply, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+12	BOBE	Bob Evans Farms, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+13	BOBE	Bob Evans Farms, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-02-21	2014-02-28	2014-03-03	2014-03-07	2014-03-31	2014-04-29	2014-08-27
+14	BWLD	Buffalo Wild Wings, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+15	CAR	Avis Budget Group, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-01-17	2013-01-24	2013-01-25	2013-01-31	2013-02-25	2013-03-25	2013-07-23
+16	DISH	DISH Network Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-05-23	2013-05-30	2013-05-31	2013-06-06	2013-07-01	2013-07-29	2013-11-26
+17	ECOL	US Ecology, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+18	FNGN	Financial Engines, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+19	GEOS	Geospace Technologies Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+20	GEOS	Geospace Technologies Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-02-07	2013-02-14	2013-02-15	2013-02-21	2013-03-18	2013-04-15	2013-08-13
+21	GILD	Gilead Sciences, Inc.	Schneider, Brad (D-Ill)	Sold	$15,001 to $50,000	2013-12-06	2013-12-13	2013-12-16	2013-12-20	2014-01-13	2014-02-11	2014-06-11
+22	GTLS	Chart Industries, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+23	HEES	H&E Equipment Services, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+24	HIBB	Hibbett Sports, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+25	IART	Integra LifeSciences Holdings Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+26	IBCP	Independent Bank Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+27	LANC	Lancaster Colony Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+28	LKQ	LKQ Corporation	Schneider, Brad (D-Ill)	Sold	$50,001 to $100,000	2014-06-13	2014-06-20	2014-06-23	2014-06-27	2014-07-21	2014-08-19	2014-12-17
+29	LKQ	LKQ Corporation	Schneider, Brad (D-Ill)	Purchased	$50,001 to $100,000	2014-05-27	2014-06-03	2014-06-04	2014-06-10	2014-07-03	2014-08-04	2014-12-01
+30	LMNX	Luminex Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+31	MENT	Mentor Graphics Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+32	MGEE	MGE Energy Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+33	MKSI	MKS Instruments, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+34	MPWR	Monolithic Power Systems, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+35	MSFT	Microsoft Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+36	MSFT	Microsoft Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-06-25	2014-07-02	2014-07-03	2014-07-09	2014-08-01	2014-09-01	2014-12-29
+37	ONB	Old National Bancorp	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+38	OSIS	OSI Systems, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+39	PODD	Insulet Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+40	ROSE	Rosetta Resources Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+41	SGMS	Scientific Games Corp	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-02-04	2014-02-11	2014-02-12	2014-02-18	2014-03-13	2014-04-14	2014-08-11
+42	SGMS	Scientific Games Corp	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-02-04	2014-02-11	2014-02-12	2014-02-18	2014-03-13	2014-04-14	2014-08-11
+43	SIVB	SVB Financial Group	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+44	TECH	Techne Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-10-17	2013-10-24	2013-10-25	2013-10-31	2013-11-25	2013-12-23	2014-04-22
+45	TYPE	Monotype Imaging Holdings Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+46	VRNT	Verint Systems Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+47	AA	Alcoa Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-09-26	2014-10-03	2014-10-06	2014-10-10	2014-11-03	2014-12-02	2015-04-01
+48	ACI	Arch Coal, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-01-14	2013-01-21	2013-01-22	2013-01-28	2013-02-20	2013-03-22	2013-07-22
+49	ADS	Alliance Data Systems Corporation	Schneider, Brad (D-Ill)	Purchased	$50,001 to $100,000	2013-06-14	2013-06-21	2013-06-24	2013-06-28	2013-07-22	2013-08-20	2013-12-18
+50	AEL	American Equity Investment Life Holding Company	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+51	AIG	American International Group, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+52	AMG	Affiliated Managers Group, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+53	AMT	American Tower Corporation (REIT)	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-10	2014-01-17	2014-01-20	2014-01-24	2014-02-17	2014-03-18	2014-07-16
+54	AMT	American Tower Corporation (REIT)	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-01-10	2014-01-17	2014-01-20	2014-01-24	2014-02-17	2014-03-18	2014-07-16
+55	AMT	American Tower Corporation (REIT)	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-03-28	2013-04-04	2013-04-05	2013-04-11	2013-05-06	2013-06-03	2013-10-01
+56	AMT	American Tower Corporation (REIT)	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-03-28	2013-04-04	2013-04-05	2013-04-11	2013-05-06	2013-06-03	2013-10-01
+57	AMT	American Tower Corporation (REIT)	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-08	2014-08-15	2014-08-18	2014-08-22	2014-09-15	2014-10-14	2015-02-11
+58	AN	AutoNation, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-01-15	2014-01-22	2014-01-23	2014-01-29	2014-02-21	2014-03-24	2014-07-21
+59	AXP	American Express Company	Schneider, Brad (D-Ill)	Purchased	$50,001 to $100,000	2013-05-07	2013-05-14	2013-05-15	2013-05-21	2013-06-13	2013-07-15	2013-11-11
+60	AXP	American Express Company	Schneider, Brad (D-Ill)	Sold	$50,001 to $100,000	2013-05-13	2013-05-20	2013-05-21	2013-05-27	2013-06-19	2013-07-19	2013-11-18
+61	BA	Boeing Company (The)	Schneider, Brad (D-Ill)	Sold	$15,001 to $50,000	2013-12-06	2013-12-13	2013-12-16	2013-12-20	2014-01-13	2014-02-11	2014-06-11
+62	BAC	Bank of America Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-08-18	2014-08-25	2014-08-26	2014-09-01	2014-09-24	2014-10-24	2015-02-23
+63	BAC	Bank of America Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-01-23	2013-01-30	2013-01-31	2013-02-06	2013-03-01	2013-04-01	2013-07-29
+64	BAC	Bank of America Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-09-03	2014-09-10	2014-09-11	2014-09-17	2014-10-10	2014-11-10	2015-03-09
+65	BAC	Bank of America Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-01-24	2013-01-31	2013-02-01	2013-02-07	2013-03-04	2013-04-01	2013-07-30
+66	BAC	Bank of America Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-12	2014-08-19	2014-08-20	2014-08-26	2014-09-18	2014-10-20	2015-02-16
+67	BAC	Bank of America Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-18	2014-08-25	2014-08-26	2014-09-01	2014-09-24	2014-10-24	2015-02-23
+68	BCEI	Bonanza Creek Energy, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+69	BCEI	Bonanza Creek Energy, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-04-23	2014-04-30	2014-05-01	2014-05-07	2014-05-30	2014-06-30	2014-10-27
+70	BTU	Peabody Energy Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-05-02	2014-05-09	2014-05-12	2014-05-16	2014-06-09	2014-07-08	2014-11-05
+71	BTU	Peabody Energy Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-05-02	2014-05-09	2014-05-12	2014-05-16	2014-06-09	2014-07-08	2014-11-05
+72	BTU	Peabody Energy Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-13	2014-08-20	2014-08-21	2014-08-27	2014-09-19	2014-10-20	2015-02-16
+73	BTU	Peabody Energy Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-06-19	2013-06-26	2013-06-27	2013-07-03	2013-07-26	2013-08-26	2013-12-23
+74	BYI	Bally Technologies, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+75	BYI	Bally Technologies, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-09-29	2014-10-06	2014-10-07	2014-10-13	2014-11-05	2014-12-05	2015-04-06
+76	C	Citigroup Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-05-07	2014-05-14	2014-05-15	2014-05-21	2014-06-13	2014-07-14	2014-11-10
+77	C	Citigroup Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-06	2014-08-13	2014-08-14	2014-08-20	2014-09-12	2014-10-13	2015-02-09
+78	CBM	Cambrex Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-02-11	2014-02-18	2014-02-19	2014-02-25	2014-03-20	2014-04-21	2014-08-18
+79	CF	CF Industries Holdings, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-08	2013-02-15	2013-02-18	2013-02-22	2013-03-18	2013-04-16	2013-08-14
+80	CHK	Chesapeake Energy Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-08	2014-08-15	2014-08-18	2014-08-22	2014-09-15	2014-10-14	2015-02-11
+81	CIT	CIT Group Inc (DEL)	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-11-07	2013-11-14	2013-11-15	2013-11-21	2013-12-16	2014-01-13	2014-05-13
+82	CLR	Continental Resources, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-06-28	2013-07-05	2013-07-08	2013-07-12	2013-08-05	2013-09-03	2014-01-01
+83	CLR	Continental Resources, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-05-22	2014-05-29	2014-05-30	2014-06-05	2014-06-30	2014-07-28	2014-11-25
+84	CMP	Compass Minerals International, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+85	COF	Capital One Financial Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+86	DE	Deere & Company	Schneider, Brad (D-Ill)	Sold	$50,001 to $100,000	2013-07-08	2013-07-15	2013-07-16	2013-07-22	2013-08-14	2013-09-13	2014-01-13
+87	DFS	Discover Financial Services	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-10-17	2013-10-24	2013-10-25	2013-10-31	2013-11-25	2013-12-23	2014-04-22
+88	DFS	Discover Financial Services	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+89	DLR	Digital Realty Trust, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+90	DOC	Physicians Realty Trust	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-07-31	2014-08-07	2014-08-08	2014-08-14	2014-09-08	2014-10-06	2015-02-03
+91	DW	Drew Industries Incorporated	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+92	ENH	Endurance Specialty Holdings Ltd	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+93	ENH	Endurance Specialty Holdings Ltd	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-03-01	2013-03-08	2013-03-11	2013-03-15	2013-04-08	2013-05-07	2013-09-04
+94	FET	Forum Energy Technologies, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+95	FTK	Flotek Industries, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-03-14	2013-03-21	2013-03-22	2013-03-28	2013-04-22	2013-05-20	2013-09-17
+96	GG	Goldcorp Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-10-25	2013-11-01	2013-11-04	2013-11-08	2013-12-02	2013-12-31	2014-04-30
+97	GG	Goldcorp Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-06-27	2013-07-04	2013-07-05	2013-07-11	2013-08-05	2013-09-02	2013-12-31
+98	GM	General Motors Company	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-03-25	2014-04-01	2014-04-02	2014-04-08	2014-05-01	2014-06-02	2014-09-29
+99	GM	General Motors Company	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-03-24	2014-03-31	2014-04-01	2014-04-07	2014-04-30	2014-05-30	2014-09-29
+100	GM	General Motors Company	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-06-11	2013-06-18	2013-06-19	2013-06-25	2013-07-18	2013-08-19	2013-12-16
+101	HCA	HCA Holdings, Inc.	Schneider, Brad (D-Ill)	Purchased	$50,001 to $100,000	2014-08-05	2014-08-12	2014-08-13	2014-08-19	2014-09-11	2014-10-13	2015-02-09
+102	HCN	Health Care REIT, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-09-10	2013-09-17	2013-09-18	2013-09-24	2013-10-17	2013-11-18	2014-03-17
+103	HCN	Health Care REIT, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+104	HI	Hillenbrand Inc	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+105	HMN	Horace Mann Educators Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+106	HOS	Hornbeck Offshore Services	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-11-20	2013-11-27	2013-11-28	2013-12-04	2013-12-27	2014-01-27	2014-05-26
+107	HOT	Starwood Hotels & Resorts Worldwide, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-09-09	2014-09-16	2014-09-17	2014-09-23	2014-10-16	2014-11-17	2015-03-16
+108	ITC	ITC Holdings Corp.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+109	JCI	Johnson Controls, Inc.	Schneider, Brad (D-Ill)	Sold	$15,001 to $50,000	2013-02-11	2013-02-18	2013-02-19	2013-02-25	2013-03-20	2013-04-19	2013-08-19
+110	JLL	Jones Lang LaSalle Incorporated	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+111	KIM	Kimco Realty Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+112	KIM	Kimco Realty Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-09-06	2013-09-13	2013-09-16	2013-09-20	2013-10-14	2013-11-12	2014-03-12
+113	KNL	Knoll, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+114	LAD	Lithia Motors, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+115	LEA	Lear Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-02-21	2014-02-28	2014-03-03	2014-03-07	2014-03-31	2014-04-29	2014-08-27
+116	LEA	Lear Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-03-12	2014-03-19	2014-03-20	2014-03-26	2014-04-18	2014-05-19	2014-09-15
+117	LGF	Lions Gate Entertainment Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+118	LL	Lumber Liquidators Holdings, Inc	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+119	LYG	Lloyds Banking Group Plc	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-03-11	2013-03-18	2013-03-19	2013-03-25	2013-04-17	2013-05-17	2013-09-16
+120	MA	Mastercard Incorporated	Schneider, Brad (D-Ill)	Sold	$15,001 to $50,000	2013-12-06	2013-12-13	2013-12-16	2013-12-20	2014-01-13	2014-02-11	2014-06-11
+121	MOS	Mosaic Company (The)	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-11-08	2013-11-15	2013-11-18	2013-11-22	2013-12-16	2014-01-14	2014-05-14
+122	MSM	MSC Industrial Direct Company, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+123	NNN	National Retail Properties	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-03-08	2013-03-15	2013-03-18	2013-03-22	2013-04-15	2013-05-14	2013-09-11
+124	NR	Newpark Resources, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+125	OMI	Owens & Minor, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-05-02	2014-05-09	2014-05-12	2014-05-16	2014-06-09	2014-07-08	2014-11-05
+126	OMI	Owens & Minor, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+127	ORCL	Oracle Corporation	Schneider, Brad (D-Ill)	Sold	$15,001 to $50,000	2013-03-25	2013-04-01	2013-04-02	2013-04-08	2013-05-01	2013-05-31	2013-09-30
+128	ORCL	Oracle Corporation	Schneider, Brad (D-Ill)	Purchased	$50,001 to $100,000	2013-01-03	2013-01-10	2013-01-11	2013-01-17	2013-02-11	2013-03-11	2013-07-09
+129	PAY	Verifone Systems, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-21	2013-02-28	2013-03-01	2013-03-07	2013-04-01	2013-04-29	2013-08-27
+130	PEB	Pebblebrook Hotel Trust	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+131	PH	Parker-Hannifin Corporation	Schneider, Brad (D-Ill)	Sold	$100,001 to $250,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+132	PH	Parker-Hannifin Corporation	Schneider, Brad (D-Ill)	Sold	$15,001 to $50,000	2013-12-06	2013-12-13	2013-12-16	2013-12-20	2014-01-13	2014-02-11	2014-06-11
+133	PNC	PNC Financial Services Group, Inc. (The)	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-03-04	2013-03-11	2013-03-12	2013-03-18	2013-04-10	2013-05-10	2013-09-09
+134	PNC	PNC Financial Services Group, Inc. (The)	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-05-24	2013-05-31	2013-06-03	2013-06-07	2013-07-01	2013-07-30	2013-11-27
+135	PNC	PNC Financial Services Group, Inc. (The)	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2003-02-28	2003-03-07	2003-03-10	2003-03-14	2003-04-07	2003-05-06	2003-09-03
+136	PNC	PNC Financial Services Group, Inc. (The)	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-08-12	2013-08-19	2013-08-20	2013-08-26	2013-09-18	2013-10-18	2014-02-17
+137	POR	Portland General Electric Company	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+138	PRU	Prudential Financial, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+139	PWR	Quanta Services, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+140	PXD	Pioneer Natural Resources Company	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-06-27	2013-07-04	2013-07-05	2013-07-11	2013-08-05	2013-09-02	2013-12-31
+141	RCL	Royal Caribbean Cruises Ltd.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-03-01	2013-03-08	2013-03-11	2013-03-15	2013-04-08	2013-05-07	2013-09-04
+142	RCL	Royal Caribbean Cruises Ltd.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-03-01	2013-03-08	2013-03-11	2013-03-15	2013-04-08	2013-05-07	2013-09-04
+143	REG	Regency Centers Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+144	ROC	Rockwood Holdings, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-07-16	2014-07-23	2014-07-24	2014-07-30	2014-08-22	2014-09-22	2015-01-19
+145	ROC	Rockwood Holdings, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+146	ROC	Rockwood Holdings, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-02-27	2014-03-06	2014-03-07	2014-03-13	2014-04-07	2014-05-05	2014-09-02
+147	RYL	Ryland Group, Inc. (The)	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-08-06	2013-08-13	2013-08-14	2013-08-20	2013-09-12	2013-10-14	2014-02-10
+148	SCL	Stepan Company	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-07-17	2014-07-24	2014-07-25	2014-07-31	2014-08-25	2014-09-22	2015-01-20
+149	SCL	Stepan Company	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+150	SD	Sandridge Energy Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-06	2014-08-13	2014-08-14	2014-08-20	2014-09-12	2014-10-13	2015-02-09
+151	SD	Sandridge Energy Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-03-11	2014-03-18	2014-03-19	2014-03-25	2014-04-17	2014-05-19	2014-09-15
+152	SF	Stifel Financial Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+153	SWK	Stanley Black & Decker, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-28	2013-03-07	2013-03-08	2013-03-14	2013-04-08	2013-05-06	2013-09-03
+154	SXI	Standex International Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-05-05	2014-05-12	2014-05-13	2014-05-19	2014-06-11	2014-07-11	2014-11-10
+155	SXT	Sensient Technologies Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+156	T	AT&T Inc.	Schneider, Brad (D-Ill)	Purchased	$50,001 to $100,000	2013-04-05	2013-04-12	2013-04-15	2013-04-19	2013-05-13	2013-06-11	2013-10-09
+157	T	AT&T Inc.	Schneider, Brad (D-Ill)	Sold	$50,001 to $100,000	2013-05-07	2013-05-14	2013-05-15	2013-05-21	2013-06-13	2013-07-15	2013-11-11
+158	TAL	TAL International Group, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+159	TCO	Taubman Centers, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-09-25	2013-10-02	2013-10-03	2013-10-09	2013-11-01	2013-12-02	2014-03-31
+160	TEX	Terex Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-12	2014-08-19	2014-08-20	2014-08-26	2014-09-18	2014-10-20	2015-02-16
+161	THR	Thermon Group Holdings, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+162	TM	Toyota Motor Corp Ltd Ord	Schneider, Brad (D-Ill)	Purchased	$50,001 to $100,000	2013-02-11	2013-02-18	2013-02-19	2013-02-25	2013-03-20	2013-04-19	2013-08-19
+163	TM	Toyota Motor Corp Ltd Ord	Schneider, Brad (D-Ill)	Sold	$100,001 to $250,000	2013-11-15	2013-11-22	2013-11-25	2013-11-29	2013-12-23	2014-01-21	2014-05-21
+164	TREX	Trex Company, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+165	TTI	Tetra Technologies, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+166	UAL	United Continental Holdings, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-05-23	2013-05-30	2013-05-31	2013-06-06	2013-07-01	2013-07-29	2013-11-26
+167	UAL	United Continental Holdings, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-03-03	2014-03-10	2014-03-11	2014-03-17	2014-04-09	2014-05-09	2014-09-08
+168	UFS	Domtar Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-07-18	2014-07-25	2014-07-28	2014-08-01	2014-08-25	2014-09-23	2015-01-21
+169	UIL	UIL Holdings Corporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+170	URI	United Rentals, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+171	URI	United Rentals, Inc.	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2013-02-04	2013-02-11	2013-02-12	2013-02-18	2013-03-13	2013-04-12	2013-08-12
+172	VCRA	Vocera Communications, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+173	VLO	Valero Energy Corporation	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-08	2014-08-15	2014-08-18	2014-08-22	2014-09-15	2014-10-14	2015-02-11
+174	VNO	Vornado Realty Trust	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-12-30	2014-01-06	2014-01-07	2014-01-13	2014-02-05	2014-03-07	2014-07-07
+175	VSH	Vishay Intertechnology, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+176	VZ	Verizon Communications Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-10-25	2013-11-01	2013-11-04	2013-11-08	2013-12-02	2013-12-31	2014-04-30
+177	WAIR	Wesco Aircraft Holdings, Inc.	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+178	WAL	Western Alliance Bancorporation	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-01-13	2014-01-20	2014-01-21	2014-01-27	2014-02-19	2014-03-21	2014-07-21
+179	WFC	Wells Fargo & Company	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-08-18	2014-08-25	2014-08-26	2014-09-01	2014-09-24	2014-10-24	2015-02-23
+180	WFC	Wells Fargo & Company	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-08-22	2014-08-29	2014-09-01	2014-09-05	2014-09-29	2014-10-28	2015-02-25
+181	WFC	Wells Fargo & Company	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-18	2014-08-25	2014-08-26	2014-09-01	2014-09-24	2014-10-24	2015-02-23
+182	WFC	Wells Fargo & Company	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-13	2014-08-20	2014-08-21	2014-08-27	2014-09-19	2014-10-20	2015-02-16
+183	WMB	Williams Companies, Inc. (The)	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-06-25	2014-07-02	2014-07-03	2014-07-09	2014-08-01	2014-09-01	2014-12-29
+184	WY	Weyerhaeuser Company	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2013-02-08	2013-02-15	2013-02-18	2013-02-22	2013-03-18	2013-04-16	2013-08-14
+185	WY	Weyerhaeuser Company	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-13	2014-08-20	2014-08-21	2014-08-27	2014-09-19	2014-10-20	2015-02-16
+186	XEC	Cimarex Energy Co	Schneider, Brad (D-Ill)	Purchased	$1,000 to $15,000	2014-05-22	2014-05-29	2014-05-30	2014-06-05	2014-06-30	2014-07-28	2014-11-25
+187	XEC	Cimarex Energy Co	Schneider, Brad (D-Ill)	Sold	$1,000 to $15,000	2014-08-08	2014-08-15	2014-08-18	2014-08-22	2014-09-15	2014-10-14	2015-02-11
+188	XOM	Exxon Mobil Corporation	Schneider, Brad (D-Ill)	Sold	$50,001 to $100,000	2013-08-05	2013-08-12	2013-08-13	2013-08-19	2013-09-11	2013-10-11	2014-02-10

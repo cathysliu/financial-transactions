@@ -1,0 +1,3 @@
+Ticker	Name	Member	Action	Value	Date.of.Transaction	Est.Date.of.Report	After.One.Day	One.Week	One.Month	Two.Months	Six.Months
+1	MSFT	Microsoft Corporation	Cole, Tom (R-Okla)	Sold	$1,000 to $15,000	2013-04-12	2013-04-19	2013-04-22	2013-04-26	2013-05-20	2013-06-18	2013-10-16
+2	XOM	Exxon Mobil Corporation	Cole, Tom (R-Okla)	Purchased	$1,000 to $15,000	2013-05-14	2013-05-21	2013-05-22	2013-05-28	2013-06-20	2013-07-22	2013-11-18
