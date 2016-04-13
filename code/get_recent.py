@@ -11,6 +11,6 @@ recent = [headings] + recent
 
 import csv
 
-with open("Historical Prices/recent_transactions.csv", "wb") as f:
+with open("data/recent_transactions.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(recent)
